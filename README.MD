@@ -1,1 +1,11 @@
 My house rules for OSE.
+- "Races" are referred to by the more scientifically correct them "species".
+    - Species are separate from classes.
+- Prime Requisites do not affect XP gain.
+- Hit Points above 0 represent minor wounds (scratches, bruises, sprains, etc), not serious injury.  
+    - Once a character is reduced to 0 or fewer HP, the chance of a serious injury (including death) occurs.
+- We are using the optional Ascending AC rules for OSE.
+    - This, obviously, necessitates using the optional Attack Bonus rules rather than the attack matrices.
+    - Further modifications have been made to smooth out the progression of the attack bonuses over the course of all of a classes levels.  The end result is a smoother transition from level to level while maintaining the same range of To Hit scores.
+- Saving Throws have been modified to a stat-based saving throw system, replacing the arcane and confusing saving throw categories of old.
+- 
