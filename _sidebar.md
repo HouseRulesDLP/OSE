@@ -1,4 +1,9 @@
 - [Home](/)
+- [Overview of Changes](Change_Overview.md)
 - Characters
     - [Character Creation](characters/Character_Creation.md)
     - [Ability Scores](characters/Ability_Scores.md)
+    - [Languages](characters/Languages.md)
+    - [Backgrounds](characters/Backgrounds.md)
+- [Character Classes](character_classes/Classes.md)
+    - [Cleric](character_classes/Cleric.md)

@@ -1,9 +1,8 @@
 # Ability Scores
-In addition to the below modifications to the core rules for [ability scores](https://oldschoolessentials.necroticgnome.com/srd/index.php/Ability_Scores), your Ability Score modifier will be used in conjunction with performing class and background skill checks as well as saving throws.
+In addition to the below modifications to the core rules for ability scores (OSE Advanced pg 20), your Ability Score modifier will be used in conjunction with performing class and background skill checks as well as saving throws.
 
 ## Ability Score Modifiers
 All ability scores use the following ability modifiers table.  Ignore the existing separate tables for each ability in the core rules.
-
 <table>
     <tr>
         <td align="center"><b>Score</b></td>
