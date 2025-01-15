@@ -2,395 +2,411 @@
 OSE Advanced (pg 36)
 
 ## Features
-- Prime Requisite: WIS 9+
-- Hit Dice: 1d6
-- Armor: Light and Medium plus shields
-- Weapon Proficiencies: Light & Medium
+- **Prime Requisite:** Wisdom 9+
+- **Hit Dice:** 1d6
+- **Armor:** Light & Medium plus Shields
+- **Weapons:** Light & Medium
 
-## Combat
-Clerics are, by default, only trained in Light and Medium Armor and Weapons along with shields.  If your patron deity favors a Heavy weapon or Heavy armor, your cleric will also be proficient with that item.
+## Equipment
+- A Priest's pack or Explorer's pack.
+- 4d6sp
+## Cleric Skills
+**Detect Holy:** A cleric can detect whether an item or place is enchanted with holy magic or has been desecrated by unholy magic.  The cleric must touch the object and concentrate on it without distraction for at least 10 minutes.
 
+**Prepare Scroll:** Clerics can create clerical spell scrolls and protection scrolls.  See the rules on [magic item creation]() for details.
+
+**Brew Potion:** Clerics can brew holy water and potions.  See the rules on [magic item creation]() for details.
+
+**Create Minor Holy Item:** Starting at 5th level, clerics can create minor magic items that are of a holy nature.  See the rules on [magic item creation]() for details.
+
+**Create Major Magic Item:** Starting at 10th level, clerics can create major magic items that are of a holy nature.  See the rules on [magic item creation]() for details.
+
+**Create Artifact:** Starting at 14th level, clerics can create holy artifacts.  See the rules on [magic item creation]() for details.
 ## Divine Magic
-**Holy Symbol:** Your holy symbol counts as your [Magical Focus]().
+**Holy Symbol:** A cleric must carry a holy symbol which also serves as their spellcasting focus.
 
-**Invocation Dice:** These are the dice used when attempting to cast a spell you have already prepared.
+**Deity Disfavor:** Clerics must follow the tenets of their religious order.  Failure to do so may result in loss of class abilities until a proper penance (as determined by their superiors in the order, or the deity itself) is performed.
 
-**Deity Disfavor:** as per the core rules.
+**Invocation Dice:** As a spellcaster, clerics have the number of invocation dice indicated on the table below, plus a number of additional dice equal to their Wisdom modifier.  The cleric may choose how many dice to roll each time they attempt to cast a spell.
 
-**Magical Research:** As per the core rules but see below on creating magical items.
+**Spellcasting:** Clerics receive their spells from their deities through prayer and meditation.  The table below shows the number of spells of each level they may be granted upon completing their morning rituals after a full night's rest.  It takes 10 minutes of uninterrupted prayer times the level of the spell for each spell that is to be granted.
 
-**Spell Casting:** Unlike the core rules, clerics gain access to divine spells starting at level 1.
+**Exhausting Magic:** At a cost of 1 level of Exhaustion, a cleric may add their Competency Bonus to their invocation roll total as a Free Action.  This may be chosen after their Invocation Dice have been rolled and totaled.
 
-**Using Magic Items:** as per the core rules.
+## Turning the Unholy
+Clerics can invoke the power of their faith to repel supernatural creatures opposed to their divine ethos.  Typically this takes the form of Undead and Fiends, though your GM may have variations on this depending on their campaign and the religions therein.  
 
-## Turning the Undead
-The cleric has the power to repel (or possibly even destroy/banish) undead and fiends.  The cleric brandishes their holy symbol and calls upon the power of their faith to rebuke these unholy entities.  Consult the following chart to determine the odds of success.
+Compare the HD of any unholy creatures within 30 feet (who can see and hear the cleric) to the level of the cleric on the table below to determine the chance of success.  If the target is a mixed group of creatures, use the HD of the leading creature (typically the highest HD creature that is not mindless).  Upon a successful turning attempt, add 1d6 to the cleric's level.  This is the number of HD worth of creatures (minimum of 1 creature) that are affected in order from lowest HD to highest.
 
-| Hit Dice   | Result |
+| HD         | Effect |
 |:----------:|:------:|
-| <= level-3 | D      |
-| <= level-1 | T      |
-| = level    | 10+    |
-| = level+1  | 16+    |
-| = level+2  | 19+    |
-| >= level+3 | --     |
+| <=L-5      | DD     |
+| L-3 to L-4 | D      |
+| L-2        | T      |
+| L-1        | 8+     |
+|  L         | 11+    |
+| L+1        | 13+    |
+| L+2        | 15+    |
+| L+3        | 17+    |
+| L+4        | 19+    |
+| L+5        | 20     |
+| >=L+6      | --     |
 
-Where the result shows a number (i.e. 10+), this is the value that must be met or exceeded on a d20 roll to successfully turn the target.  An entry of 'T' means that the targets are turned automatically and an entry of 'D' means that the undead are destroyed (fiends are banished back to their home dimension for 1 year per level of the Cleric).  Other than using a D20 to determine the odds of successfully turning undead or fiends, the rules for turning undead work the same as given in OSE Advanced (pg 36).
+**Explanation of Effects**
+- **--:** The cleric is incapable of affecting creatures of this HD or higher.
+- **{number}:** To successfully turn these creatures, the cleric must roll this or higher on an unmodified d20.  Creatures are affected as result 'T', below.  If the cleric fails this roll, this group of unholy creatures are immune to being turned by this cleric for 24 hours.
+- **T:** These creatures are automatically Turned.  Turned creatures become Frightened of the cleric for a number of minutes equal to the cleric's level.
+- **D:** Roll to determine the number of affected hit dice as for a successful turning (above).  However, instead of becoming Frightened, any unliving creatures are permanently destroyed.  Extra-planar creatures (such as fiends) are banished back to their home plane for a minimum of 1 year per level of the Cleric.  Other living creatures that are affected take the cleric's Save Bonus in d6 Holy damage, each.
+- **DD:** As 'D', above, but the number of HD affected are 3d6 plus the cleric's level.
 
 ## After Reaching 10th Level
-As per the core rules for reaching 9th level.
+A cleric may establish or build a place of worship (hereafter referred to as a "church") at any time they have the funding and permits to do so.  So long as the cleric remains in good standing with their order (and deities, of course), they will attract followers.  These followers consist of 4d6x10 fighters of 1st and 2nd level, sworn to the protection of the church.  There will also be 2d4 1st level clerics of the same order who come to assist and be led by the PC cleric.
 
 ## Cleric Level Progression
 
 <table>
     <tr>
-        <th align="center" rowspan=2><b>Level</b></th>
-        <th align="center" rowspan=2><b>Experience</th>
-        <th align="center" rowspan=2><b>Hit<br/>Dice*</b></th>
-        <th align="center" rowspan=2><b>Attack<br/>Bonus</b></th>
-        <th align="center" rowspan=2><b>Saving<br/>Throw</b></th>
-        <th align="center" rowspan=2><b>Competency</b></th>
-        <th align="center" rowspan=2><b>Invocation<br/>Dice#</b></th>
-        <th align="center" colspan=5><b>Spells by Level@</b></th>
-        <th align="center" colspan=4><b>Create Magic Item</b></th>
+        <th align="center" rowspan=3 valign="bottom"><b>Level</b></th>
+        <th align="center" rowspan=3 valign="bottom"><b>Experience</th>
+        <th align="center" rowspan=3 valign="bottom"><b>Hit<br/>Dice*</b></th>
+        <th align="center" rowspan=3 valign="bottom"><b>Attack<br/>Bonus</b></th>
+        <th align="center" rowspan=3 valign="bottom"><b>Save<br/>Bonus</b></th>
+        <th align="center" colspan=7 valign="bottom"><b>Skills</b></th>
+        <th align="center" rowspan=3 valign="bottom"><b>Invocation<br/>Dice#</b></th>
+        <th align="center" colspan=6 rowspan=2 valign="bottom"><b>Spells by Level@</b></th>
     </tr>
     <tr>
-        <td align="center"><b>1</b></td>
-        <td align="center"><b>2</b></td>
-        <td align="center"><b>3</b></td>
-        <td align="center"><b>4</b></td>
-        <td align="center"><b>5</b></td>
-        <td align="center"><b>Scroll/Potion</b></td>
-        <td align="center"><b>Minor</b></td>
-        <td align="center"><b>Major</b></td>
-        <td align="center"><b>Artifact</b></td>
+        <th align="center" rowspan=2 valign="bottom"><b>Competency</b></th>
+        <th align="center" rowspan=2 valign="bottom"><b>Detect<br/>Magic<b></th>
+        <th align="center" colspan=5 valign="bottom"><b>Create Magic Item<b></th>
+    </tr>
+    <tr>
+        <th align="center" valign="bottom"><b>Scroll</b></th>
+        <th align="center" valign="bottom"><b>Potion</b></th>
+        <th align="center" valign="bottom"><b>Minor</b></th>
+        <th align="center" valign="bottom"><b>Major</b></th>
+        <th align="center" valign="bottom"><b>Artifact</b></th>
+        <th align="center" valign="bottom"><b>1</b></th>
+        <th align="center" valign="bottom"><b>2</b></th>
+        <th align="center" valign="bottom"><b>3</b></th>
+        <th align="center" valign="bottom"><b>4</b></th>
+        <th align="center" valign="bottom"><b>5</b></th>
+        <th align="center" valign="bottom"><b>6</b></th>
     </tr>
     <tr>
         <td align="center">1</td><!--Level-->
         <td align="right">0</td><!--Experience-->
         <td align="center">1d6</td><!--Hit Dice-->
         <td align="center">+0</td><!--Attack Bonus-->
-        <td align="center">14+</td><!--Save-->
-        <td align="center">11+</td><!--Competency-->
+        <td align="center">+2</td><!--Save-->
+        <td align="center">+1</td><!--Competency-->
+        <td align="center">+1</td><!--Detect-->
+        <td align="center">+1</td><!--Scroll-->
+        <td align="center">+0</td><!--Potion-->
+        <td align="center">--</td><!--Minor-->
+        <td align="center">--</td><!--Major-->
+        <td align="center">--</td><!--Artifact-->
         <td align="center">1d6</td><!--Invocation Dice-->
         <td align="center">1</td><!--1-->
         <td align="center">--</td><!--2-->
         <td align="center">--</td><!--3-->
         <td align="center">--</td><!--4-->
         <td align="center">--</td><!--5-->
-        <td align="center">13+</td><!--Scroll/Potion-->
-        <td align="center">--</td><!--Minor-->
-        <td align="center">--</td><!--Major-->
-        <td align="center">--</td><!--Artifact-->
+        <td align="center">--</td><!--6-->
     </tr>
     <tr>
         <td align="center">2</td><!--Level-->
-        <td align="right">2,000</td><!--Experience-->
+        <td align="right">1,750</td><!--Experience-->
         <td align="center">2d6</td><!--Hit Dice-->
-        <td align="center">+1</td><!--Attack Bonus-->
-        <td align="center">13+</td><!--Save-->
-        <td align="center">11+</td><!--Competency-->
+        <td align="center">+0</td><!--Attack Bonus-->
+        <td align="center">+2</td><!--Save-->
+        <td align="center">+1</td><!--Competency-->
+        <td align="center">+1</td><!--Detect-->
+        <td align="center">+1</td><!--Scroll-->
+        <td align="center">+0</td><!--Potion-->
+        <td align="center">--</td><!--Minor-->
+        <td align="center">--</td><!--Major-->
+        <td align="center">--</td><!--Artifact-->
         <td align="center">2d6</td><!--Invocation Dice-->
         <td align="center">2</td><!--1-->
         <td align="center">--</td><!--2-->
         <td align="center">--</td><!--3-->
         <td align="center">--</td><!--4-->
         <td align="center">--</td><!--5-->
-        <td align="center">13+</td><!--Scroll/Potion-->
-        <td align="center">--</td><!--Minor-->
-        <td align="center">--</td><!--Major-->
-        <td align="center">--</td><!--Artifact-->
+        <td align="center">--</td><!--6-->
     </tr>
     <tr>
         <td align="center">3</td><!--Level-->
-        <td align="right">4,000</td><!--Experience-->
+        <td align="right">3,500</td><!--Experience-->
         <td align="center">3d6</td><!--Hit Dice-->
         <td align="center">+1</td><!--Attack Bonus-->
-        <td align="center">13+</td><!--Save-->
-        <td align="center">10+</td><!--Competency-->
+        <td align="center">+3</td><!--Save-->
+        <td align="center">+2</td><!--Competency-->
+        <td align="center">+2</td><!--Detect-->
+        <td align="center">+2</td><!--Scroll-->
+        <td align="center">+1</td><!--Potion-->
+        <td align="center">--</td><!--Minor-->
+        <td align="center">--</td><!--Major-->
+        <td align="center">--</td><!--Artifact-->
         <td align="center">3d6</td><!--Invocation Dice-->
         <td align="center">2</td><!--1-->
         <td align="center">1</td><!--2-->
         <td align="center">--</td><!--3-->
         <td align="center">--</td><!--4-->
         <td align="center">--</td><!--5-->
-        <td align="center">12+</td><!--Scroll/Potion-->
-        <td align="center">--</td><!--Minor-->
-        <td align="center">--</td><!--Major-->
-        <td align="center">--</td><!--Artifact-->
+        <td align="center">--</td><!--6-->
     </tr>
     <tr>
         <td align="center">4</td><!--Level-->
-        <td align="right">8,000</td><!--Experience-->
+        <td align="right">7,000</td><!--Experience-->
         <td align="center">4d6</td><!--Hit Dice-->
-        <td align="center">+2</td><!--Attack Bonus-->
-        <td align="center">12+</td><!--Save-->
-        <td align="center">10+</td><!--Competency-->
-        <td align="center">4d6</td><!--Invocation Dice-->
-        <td align="center">2</td><!--1-->
-        <td align="center">1</td><!--2-->
-        <td align="center">--</td><!--3-->
-        <td align="center">--</td><!--4-->
-        <td align="center">--</td><!--5-->
-        <td align="center">12+</td><!--Scroll/Potion-->
+        <td align="center">+1</td><!--Attack Bonus-->
+        <td align="center">+3</td><!--Save-->
+        <td align="center">+2</td><!--Competency-->
+        <td align="center">+2</td><!--Detect-->
+        <td align="center">+2</td><!--Scroll-->
+        <td align="center">+1</td><!--Potion-->
         <td align="center">--</td><!--Minor-->
         <td align="center">--</td><!--Major-->
         <td align="center">--</td><!--Artifact-->
+        <td align="center">4d6</td><!--Invocation Dice-->
+        <td align="center">2</td><!--1-->
+        <td align="center">2</td><!--2-->
+        <td align="center">--</td><!--3-->
+        <td align="center">--</td><!--4-->
+        <td align="center">--</td><!--5-->
+        <td align="center">--</td><!--6-->
     </tr>
     <tr>
         <td align="center">5</td><!--Level-->
-        <td align="right">16,000</td><!--Experience-->
+        <td align="right">14,000</td><!--Experience-->
         <td align="center">5d6</td><!--Hit Dice-->
         <td align="center">+2</td><!--Attack Bonus-->
-        <td align="center">12+</td><!--Save-->
-        <td align="center">9+</td><!--Competency-->
+        <td align="center">+4</td><!--Save-->
+        <td align="center">+3</td><!--Competency-->
+        <td align="center">+3</td><!--Detect-->
+        <td align="center">+3</td><!--Scroll-->
+        <td align="center">+2</td><!--Potion-->
+        <td align="center">+0</td><!--Minor-->
+        <td align="center">--</td><!--Major-->
+        <td align="center">--</td><!--Artifact-->
         <td align="center">5d6</td><!--Invocation Dice-->
         <td align="center">2</td><!--1-->
         <td align="center">2</td><!--2-->
         <td align="center">1</td><!--3-->
         <td align="center">--</td><!--4-->
         <td align="center">--</td><!--5-->
-        <td align="center">11+</td><!--Scroll/Potion-->
-        <td align="center">16+</td><!--Minor-->
-        <td align="center">--</td><!--Major-->
-        <td align="center">--</td><!--Artifact-->
+        <td align="center">--</td><!--6-->
     </tr>
     <tr>
         <td align="center">6</td><!--Level-->
-        <td align="right">32,000</td><!--Experience-->
+        <td align="right">30,000</td><!--Experience-->
         <td align="center">6d6</td><!--Hit Dice-->
-        <td align="center">+3</td><!--Attack Bonus-->
-        <td align="center">11+</td><!--Save-->
-        <td align="center">9+</td><!--Competency-->
+        <td align="center">+2</td><!--Attack Bonus-->
+        <td align="center">+4</td><!--Save-->
+        <td align="center">+3</td><!--Competency-->
+        <td align="center">+3</td><!--Detect-->
+        <td align="center">+3</td><!--Scroll-->
+        <td align="center">+2</td><!--Potion-->
+        <td align="center">+0</td><!--Minor-->
+        <td align="center">--</td><!--Major-->
+        <td align="center">--</td><!--Artifact-->
         <td align="center">6d6</td><!--Invocation Dice-->
-        <td align="center">2</td><!--1-->
+        <td align="center">3</td><!--1-->
         <td align="center">2</td><!--2-->
         <td align="center">2</td><!--3-->
         <td align="center">--</td><!--4-->
         <td align="center">--</td><!--5-->
-        <td align="center">11+</td><!--Scroll/Potion-->
-        <td align="center">16+</td><!--Minor-->
-        <td align="center">--</td><!--Major-->
-        <td align="center">--</td><!--Artifact-->
+        <td align="center">--</td><!--6-->
     </tr>
     <tr>
         <td align="center">7</td><!--Level-->
-        <td align="right">64,000</td><!--Experience-->
+        <td align="right">60,000</td><!--Experience-->
         <td align="center">7d6</td><!--Hit Dice-->
         <td align="center">+3</td><!--Attack Bonus-->
-        <td align="center">10+</td><!--Save-->
-        <td align="center">8+</td><!--Competency-->
+        <td align="center">+5</td><!--Save-->
+        <td align="center">+4</td><!--Competency-->
+        <td align="center">+4</td><!--Detect-->
+        <td align="center">+4</td><!--Scroll-->
+        <td align="center">+3</td><!--Potion-->
+        <td align="center">+1</td><!--Minor-->
+        <td align="center">--</td><!--Major-->
+        <td align="center">--</td><!--Artifact-->
         <td align="center">7d6</td><!--Invocation Dice-->
         <td align="center">3</td><!--1-->
-        <td align="center">3</td><!--2-->
+        <td align="center">2</td><!--2-->
         <td align="center">2</td><!--3-->
         <td align="center">1</td><!--4-->
         <td align="center">--</td><!--5-->
-        <td align="center">10+</td><!--Scroll/Potion-->
-        <td align="center">15+</td><!--Minor-->
-        <td align="center">--</td><!--Major-->
-        <td align="center">--</td><!--Artifact-->
+        <td align="center">--</td><!--6-->
     </tr>
     <tr>
         <td align="center">8</td><!--Level-->
         <td align="right">120,000</td><!--Experience-->
         <td align="center">8d6</td><!--Hit Dice-->
-        <td align="center">+4</td><!--Attack Bonus-->
-        <td align="center">10+</td><!--Save-->
-        <td align="center">8+</td><!--Competency-->
+        <td align="center">+3</td><!--Attack Bonus-->
+        <td align="center">+5</td><!--Save-->
+        <td align="center">+4</td><!--Competency-->
+        <td align="center">+4</td><!--Detect-->
+        <td align="center">+4</td><!--Scroll-->
+        <td align="center">+3</td><!--Potion-->
+        <td align="center">+1</td><!--Minor-->
+        <td align="center">--</td><!--Major-->
+        <td align="center">--</td><!--Artifact-->
         <td align="center">8d6</td><!--Invocation Dice-->
         <td align="center">3</td><!--1-->
         <td align="center">3</td><!--2-->
-        <td align="center">3</td><!--3-->
+        <td align="center">2</td><!--3-->
         <td align="center">2</td><!--4-->
         <td align="center">--</td><!--5-->
-        <td align="center">10+</td><!--Scroll/Potion-->
-        <td align="center">15+</td><!--Minor-->
-        <td align="center">--</td><!--Major-->
-        <td align="center">--</td><!--Artifact-->
+        <td align="center">--</td><!--6-->
     </tr>
     <tr>
         <td align="center">9</td><!--Level-->
         <td align="right">240,000</td><!--Experience-->
         <td align="center">9d6</td><!--Hit Dice-->
         <td align="center">+4</td><!--Attack Bonus-->
-        <td align="center">9+</td><!--Save-->
-        <td align="center">8+</td><!--Competency-->
-        <td align="center">9d6</td><!--Invocation Dice-->
-        <td align="center">4</td><!--1-->
-        <td align="center">4</td><!--2-->
-        <td align="center">3</td><!--3-->
-        <td align="center">3</td><!--4-->
-        <td align="center">1</td><!--5-->
-        <td align="center">10+</td><!--Scroll/Potion-->
-        <td align="center">15+</td><!--Minor-->
-        <td align="center">18+</td><!--Major-->
+        <td align="center">+6</td><!--Save-->
+        <td align="center">+4</td><!--Competency-->
+        <td align="center">+4</td><!--Detect-->
+        <td align="center">+4</td><!--Scroll-->
+        <td align="center">+3</td><!--Potion-->
+        <td align="center">+1</td><!--Minor-->
+        <td align="center">--</td><!--Major-->
         <td align="center">--</td><!--Artifact-->
+        <td align="center">9d6</td><!--Invocation Dice-->
+        <td align="center">3</td><!--1-->
+        <td align="center">3</td><!--2-->
+        <td align="center">2</td><!--3-->
+        <td align="center">2</td><!--4-->
+        <td align="center">1</td><!--5-->
+        <td align="center">--</td><!--6-->
     </tr>
     <tr>
         <td align="center">10</td><!--Level-->
         <td align="right">360,000</td><!--Experience-->
         <td align="center">10d6</td><!--Hit Dice-->
-        <td align="center">+5</td><!--Attack Bonus-->
-        <td align="center">9+</td><!--Save-->
-        <td align="center">7+</td><!--Competency-->
+        <td align="center">+4</td><!--Attack Bonus-->
+        <td align="center">+6</td><!--Save-->
+        <td align="center">+5</td><!--Competency-->
+        <td align="center">+5</td><!--Detect-->
+        <td align="center">+5</td><!--Scroll-->
+        <td align="center">+4</td><!--Potion-->
+        <td align="center">+2</td><!--Minor-->
+        <td align="center">+0</td><!--Major-->
+        <td align="center">--</td><!--Artifact-->
         <td align="center">10d6</td><!--Invocation Dice-->
         <td align="center">4</td><!--1-->
-        <td align="center">4</td><!--2-->
-        <td align="center">4</td><!--3-->
-        <td align="center">3</td><!--4-->
+        <td align="center">3</td><!--2-->
+        <td align="center">3</td><!--3-->
+        <td align="center">2</td><!--4-->
         <td align="center">2</td><!--5-->
-        <td align="center">9+</td><!--Scroll/Potion-->
-        <td align="center">14+</td><!--Minor-->
-        <td align="center">17+</td><!--Major-->
-        <td align="center">--</td><!--Artifact-->
+        <td align="center">--</td><!--6-->
     </tr>
     <tr>
         <td align="center">11</td><!--Level-->
         <td align="right">480,000</td><!--Experience-->
         <td align="center">10d6+1</td><!--Hit Dice-->
         <td align="center">+5</td><!--Attack Bonus-->
-        <td align="center">8+</td><!--Save-->
-        <td align="center">7+</td><!--Competency-->
-        <td align="center">11d6</td><!--Invocation Dice-->
-        <td align="center">5</td><!--1-->
-        <td align="center">5</td><!--2-->
-        <td align="center">4</td><!--3-->
-        <td align="center">4</td><!--4-->
-        <td align="center">3</td><!--5-->
-        <td align="center">9+</td><!--Scroll/Potion-->
-        <td align="center">14+</td><!--Minor-->
-        <td align="center">17+</td><!--Major-->
+        <td align="center">+7</td><!--Save-->
+        <td align="center">+5</td><!--Competency-->
+        <td align="center">+5</td><!--Detect-->
+        <td align="center">+5</td><!--Scroll-->
+        <td align="center">+4</td><!--Potion-->
+        <td align="center">+2</td><!--Minor-->
+        <td align="center">+0</td><!--Major-->
         <td align="center">--</td><!--Artifact-->
+        <td align="center">11d6</td><!--Invocation Dice-->
+        <td align="center">4</td><!--1-->
+        <td align="center">3</td><!--2-->
+        <td align="center">3</td><!--3-->
+        <td align="center">2</td><!--4-->
+        <td align="center">2</td><!--5-->
+        <td align="center">1</td><!--6-->
     </tr>
     <tr>
         <td align="center">12</td><!--Level-->
         <td align="right">600,000</td><!--Experience-->
         <td align="center">10d6+2</td><!--Hit Dice-->
-        <td align="center">+6</td><!--Attack Bonus-->
-        <td align="center">8+</td><!--Save-->
-        <td align="center">6+</td><!--Competency-->
-        <td align="center">12d6</td><!--Invocation Dice-->
-        <td align="center">5</td><!--1-->
-        <td align="center">5</td><!--2-->
-        <td align="center">5</td><!--3-->
-        <td align="center">4</td><!--4-->
-        <td align="center">4</td><!--5-->
-        <td align="center">8+</td><!--Scroll/Potion-->
-        <td align="center">13+</td><!--Minor-->
-        <td align="center">16+</td><!--Major-->
+        <td align="center">+5</td><!--Attack Bonus-->
+        <td align="center">+7</td><!--Save-->
+        <td align="center">+6</td><!--Competency-->
+        <td align="center">+6</td><!--Detect-->
+        <td align="center">+6</td><!--Scroll-->
+        <td align="center">+5</td><!--Potion-->
+        <td align="center">+3</td><!--Minor-->
+        <td align="center">+1</td><!--Major-->
         <td align="center">--</td><!--Artifact-->
+        <td align="center">12d6</td><!--Invocation Dice-->
+        <td align="center">4</td><!--1-->
+        <td align="center">4</td><!--2-->
+        <td align="center">3</td><!--3-->
+        <td align="center">3</td><!--4-->
+        <td align="center">2</td><!--5-->
+        <td align="center">2</td><!--6-->
     </tr>
     <tr>
         <td align="center">13</td><!--Level-->
         <td align="right">720,000</td><!--Experience-->
         <td align="center">10d6+3</td><!--Hit Dice-->
         <td align="center">+6</td><!--Attack Bonus-->
-        <td align="center">7+</td><!--Save-->
-        <td align="center">6+</td><!--Competency-->
+        <td align="center">+8</td><!--Save-->
+        <td align="center">+6</td><!--Competency-->
+        <td align="center">+6</td><!--Detect-->
+        <td align="center">+6</td><!--Scroll-->
+        <td align="center">+5</td><!--Potion-->
+        <td align="center">+3</td><!--Minor-->
+        <td align="center">+1</td><!--Major-->
+        <td align="center">--</td><!--Artifact-->
         <td align="center">13d6</td><!--Invocation Dice-->
-        <td align="center">6</td><!--1-->
-        <td align="center">5</td><!--2-->
-        <td align="center">5</td><!--3-->
-        <td align="center">5</td><!--4-->
-        <td align="center">4</td><!--5-->
-        <td align="center">8+</td><!--Scroll/Potion-->
-        <td align="center">13+</td><!--Minor-->
-        <td align="center">16+</td><!--Major-->
-        <td align="center">20+</td><!--Artifact-->
+        <td align="center">4</td><!--1-->
+        <td align="center">4</td><!--2-->
+        <td align="center">3</td><!--3-->
+        <td align="center">3</td><!--4-->
+        <td align="center">3</td><!--5-->
+        <td align="center">2</td><!--6-->
     </tr>
     <tr>
         <td align="center">14</td><!--Level-->
         <td align="right">840,000</td><!--Experience-->
         <td align="center">10d6+4</td><!--Hit Dice-->
-        <td align="center">+7</td><!--Attack Bonus-->
-        <td align="center">6+</td><!--Save-->
-        <td align="center">5+</td><!--Competency-->
+        <td align="center">+6</td><!--Attack Bonus-->
+        <td align="center">+8</td><!--Save-->
+        <td align="center">+7</td><!--Competency-->
+        <td align="center">+7</td><!--Detect-->
+        <td align="center">+7</td><!--Scroll-->
+        <td align="center">+6</td><!--Potion-->
+        <td align="center">+4</td><!--Minor-->
+        <td align="center">+2</td><!--Major-->
+        <td align="center">+0</td><!--Artifact-->
         <td align="center">14d6</td><!--Invocation Dice-->
-        <td align="center">6</td><!--1-->
-        <td align="center">6</td><!--2-->
-        <td align="center">5</td><!--3-->
-        <td align="center">5</td><!--4-->
-        <td align="center">5</td><!--5-->
-        <td align="center">7+</td><!--Scroll/Potion-->
-        <td align="center">12+</td><!--Minor-->
-        <td align="center">15+</td><!--Major-->
-        <td align="center">19+</td><!--Artifact-->
+        <td align="center">5</td><!--1-->
+        <td align="center">4</td><!--2-->
+        <td align="center">4</td><!--3-->
+        <td align="center">3</td><!--4-->
+        <td align="center">3</td><!--5-->
+        <td align="center">2</td><!--6-->
     </tr>
-    <tr><td colspan=16>* Constitution Modifiers no longer apply after level 10.<br/># Increase your number of Invocation Dice by your Wisdom Modifier.<br/>@ Increase the number of 1st level spells you may prepare by your Wisdom Modifier.</td></tr>
+    <tr>
+        <td align="center">15</td><!--Level-->
+        <td align="right">960,000</td><!--Experience-->
+        <td align="center">10d6+5</td><!--Hit Dice-->
+        <td align="center">+7</td><!--Attack Bonus-->
+        <td align="center">+9</td><!--Save-->
+        <td align="center">+7</td><!--Competency-->
+        <td align="center">+7</td><!--Detect-->
+        <td align="center">+7</td><!--Scroll-->
+        <td align="center">+6</td><!--Potion-->
+        <td align="center">+4</td><!--Minor-->
+        <td align="center">+2</td><!--Major-->
+        <td align="center">+0</td><!--Artifact-->
+        <td align="center">15d6</td><!--Invocation Dice-->
+        <td align="center">5</td><!--1-->
+        <td align="center">4</td><!--2-->
+        <td align="center">4</td><!--3-->
+        <td align="center">4</td><!--4-->
+        <td align="center">3</td><!--5-->
+        <td align="center">2</td><!--6-->
+    </tr>
+    <tr><td colspan=19>* Constitution Modifiers no longer apply after level 10.<br/># Increase your number of Invocation Dice by your Wisdom Modifier.<br/>@ Increase the number of 1st level spells you may prepare by your Wisdom Modifier.</td></tr>
 </table>
-
-## Cleric Subtypes
-In addition to the standard cleric, above, there exist two variants of the cleric: the Bard and the Druid.
-
-### Bard
-The bard is a poet, historian and singer who venerate their culture's ancestors.  They are strongly tied to the land, and their magic (which resembles that of the druid) is conjured via their music.  The bard functions the same as the cleric, above, with the following exceptions:
-
-#### Features
-- Prime Requisites: WIS and CHA 9+
-
-#### Anti-Charm
-As given in OSE Advanced (pg 34).
-
-#### Combat
-Bards fight the same as the default cleric.
-
-#### Divine Magic
-Bards follow the same rules for magic as the standard cleric, but use the Druid spell list and may use magic items that Druids may use, but not Cleric-only magic items.  Additionally, their number of Invocation Dice is modified by their Charisma Modifier rather than their Wisdom Modifier (they still use Wisdom for their number of prepared 1st level spells, however).
-
-#### Enchantment
-Instead of turning undead and fiends, bards have the Enchantment ability as given in OSE Advanced (pg 34).  This ability may be resisted with a successful Wisdom saving throw vs magic.
-
-#### Languages
-As given in OSE Advanced (pg 35).
-
-#### Lore
-As given in OSE Advanced (pg 35).  However, instead of a 2-in-6 chance, roll the Bard's Competency modified by their Intelligence.  The GM will apply modifiers to this roll based on the rarity and specificity of the knowledge in question.
-
-#### After Reaching 11th Level
-As given in OSE Advanced (pg 35).
-
-### Druid
-
-#### Features
-- Armor: Light armor and shields
-- Weapons: Light weapons and Staffs
-
-#### Charm Immunity
-As given in OSE Advanced (pg 40).
-
-#### Combat
-There is no special prohibition against the use of metal.
-
-#### Divine Magic
-As per OSE Advanced (pg 40).
-
-#### Energy Resistance
-Druids do not have this ability.
-
-#### Identification
-As per OSE Advanced (pg 40).  However, for especially rare or supernatural plants and animals, the GM may require a Competency check using Intelligence.  Identifying pure water requires a Competency/Wisdom check.
-
-#### Languages
-There is no secret druid language.  However, Druids do learn Sylvan at 2nd level.  Additionally, they gain the ability to speak with animals at 5th level and plants at 7th.
-
-#### Pass Without Trace
-This ability imposes Disadvantage on anyone attempting to track the druid through natural terrain.  This ability expands to include the druid's companions at 5th level, so long as they remain within 15' of the druid.
-
-#### Pathfinding
-Instead of reducing the odds of getting lost to 1-in-6, this ability grants the party Advantage on checks to avoid becoming lost.
-
-#### Shape Change
-This ability functions largely the same as given in OSE Advanced (pg 41) with the following exceptions:
-- This ability replaces the Turn Undead ability.
-- This ability is gained at level 1 instead of level 7.
-- The form of the creature assumed may not have more hit dice than the druid has levels.
-- This ability starts with only the ability to change into a natural terrestrial animal.
-- At 3rd level, the druid may take the form of a natural aquatic or amphibious animal.
-- At 5th level, the druid may take the form of a natural flying animal.
-- At 7th level, the druid may take the form of a supernatural animal.
-- At 11th level and higher, the druid may take the form of an elemental.
-- The druid may use this ability a number of times per day equal to their Wisdom Modifier.
-
-#### Reaching 12th Level and Above
-Ignore the rule regarding limited numbers of druids of level 12 or higher. Instead, only one druidic stronghold is allowed within 100 miles of another.  Breaking this rule will subject the offending druid to expulsion from their order, banishment and likely the loss of their divine spellcasting abilities.

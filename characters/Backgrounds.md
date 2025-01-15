@@ -5,7 +5,7 @@ The following rules expand on and override the Secondary Skills rules from OSE A
 Everyone did something before they became an adventurer. Roll (1d100) or select from the [Background Career Table](#background%20career%20table) to determine what it was your character did before being thrust into a life of adventure. This will determine some of your character's starting equipment.  Your character is automatically proficient with any weapon provided by their background occupation, but not the entire weapon group.
 
 ## Using Background Careers
-Your character is automatically consider proficient at the Apprentice (+0) level with any activities related to their background career.  This may be improved through the use of [Traits]().
+Your character is automatically considered proficient at the Apprentice (+0) level with any activities related to their background career.  This may be improved through the use of [Traits]().
 
 ## Background Career Table  
 The column used for the roll should be chosen based on the culture in which your character was raised.
@@ -61,7 +61,7 @@ You brewed chemical concoctions for those who could afford them.
 
 ### Animal Handler
 You know animals. In fact, you probably like them better than you like most people.
-- **Trappings:** Whip, Rope, Grooming Kit, a Mule/Donkey, 1d6sp
+- **Trappings:** Whip, Rope, Grooming Kit, a mule; donkey; hunting dog; or similar mundane working animal, 1d6sp
 
 ### Apothecary
 You learned how to tend the sick, bind wounds, set bones and correct other ailments.

@@ -6,4 +6,4 @@
     - [Languages](characters/Languages.md)
     - [Backgrounds](characters/Backgrounds.md)
 - [Character Classes](character_classes/Classes.md)
-    - [Cleric](character_classes/Cleric.md)
+    - [Thaumaturge](character_classes/Thaumaturge.md)
