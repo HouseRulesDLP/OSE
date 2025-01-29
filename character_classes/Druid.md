@@ -1,87 +1,79 @@
 ---
 cssclass: flatGrey
 ---
-# Cleric
-OSE Advanced (pg 36)
+# Druid
+OSE Advanced (pg 40)
 
 ## Features
 - **Prime Requisite:** Wisdom 11+
 - **Hit Dice:** 1d6
-- **Armor:** Light & Medium plus Shields
+- **Armor:** Light plus Shields
 - **Weapons:** Light & Medium
 
 ## Equipment
 - A Priest's pack or Explorer's pack.
 - 4d6sp
-## Cleric Skills
-**Detect Holy (+0):**  A Cleric can detect holy and unholy spirits and magic, including those inhabiting or possessing other objects/beings. Doing so requires [[Concentration]] and a full minute; so they cannot tell if something is present with a simple glance and people tend to notice when being stared at.
+## Druid Skills
+**Detect Spirits (+0):** A Druid can detect fae and nature spirits (anima) including those inhabiting or possessing other objects/beings. Doing so requires [[Concentration]] and a full minute; so they cannot tell if something is present with a simple glance and people tend to notice when being stared at.
 
-**Prepare Scroll (+0):** Clerics can create holy spell scrolls and protection scrolls.  See the rules on [magic item creation]() for details.
+**Prepare Scroll (+0):** Druids can create Druidic spell scrolls and protection scrolls.  See the rules on [magic item creation]() for details.
 
-**Brew Potion (-1):** Clerics can brew holy water and potions.  See the rules on [magic item creation]() for details.
+**Brew Potion (-1):** Druids can brew potions.  See the rules on [magic item creation]() for details.
 
-**Create Minor Holy Item (-3):** Starting at 5th level, clerics can create minor magic items that are of a holy nature.  See the rules on [magic item creation]() for details.
+**Create Minor Magic Item (-3):** Starting at 5th level, Druids can create minor magic items by infusing them with an anima.  See the rules on [magic item creation]() for details.
 
-**Create Major Holy Item (-5):** Starting at 10th level, clerics can create major magic items that are of a holy nature.  See the rules on [magic item creation]() for details.
+**Create Major Magic Item (-5):** Starting at 10th level, Druids can create major magic items by infusing them with an anima.  See the rules on [magic item creation]() for details.
 
-**Create Holy Artifact (-10):** Starting at 14th level, clerics can create holy artifacts.  See the rules on [magic item creation]() for details.
+**Create Artifact (-10):** Starting at 14th level, Druids can create artifacts by infusing them with powerful anima.  See the rules on [magic item creation]() for details.
 
-The DM should typically roll for Detect Holy and Brew Potion as it may not be immediately obvious if the skill check succeeds or not.
+The DM should typically roll for Detect Spirits and Brew Potion as it may not be immediately obvious if the skill check succeeds or not.
 
-## Divine Magic
-**Holy Symbol:** A cleric must carry a Holy Symbol which also serves as their spellcasting focus. This holy symbol may take most any form (a an amulet, an embossed shield, a circlet, etc), but must be easily seen, recognized and potentially grabbed by others. It also takes up 1 Inventory Slot. A holy symbol may be replaced by consecrating a new one which takes 1 week in a Safe Haven and 100sp worth of materials.
+## Druid Magic
+**Spellcasting Focus:** Druids create a Magical Foci to aid in casting spells. This focus may take most any form (a staff, wand, amulet or similar), but must be easily seen, recognized and hand-held. It also takes up 1 Inventory Slot. A focus may be replaced by constructing a new one and convincing a minor nature spirit to inhabit it.  This takes 1 week in a Safe Haven and 100sp worth of materials.
 
-For every level the Cleric has, they may carve a sigil into their Holy Symbol.  Each sigil represents a specific spell the Cleric has learned (i.e. granted by their deity). Whenever they cast one of these spells, while holding this Holy Symbol, the player rolls d8s for their Invocation Dice instead of d6s. It takes 1 Day and 50sp times the spell's Rank to engrave a new sigil into a Holy Symbol.
+For every level the Druid has, they may carve a sigil into their Focus.  Each sigil represents a specific spell the Druid has learned (i.e. granted by the spirits). Whenever they cast one of these spells, while holding this Focus, the player rolls d8s for their Invocation Dice instead of d6s. It takes 1 Day and 50sp times the spell's Rank to engrave a new sigil into a Focus.
 
-Having a Holy Symbol in hand does not count against needing a free hand for spell casting.
+Having a Focus in hand does not count against needing a free hand for spell casting.
 
-**Deity Disfavor:** Clerics must follow the tenets of their religious order.  Failure to do so may result in loss of class abilities until a proper penance (as determined by their superiors in the order, or the deity itself) is performed.
+**Spirit Disfavor:** Druids must respect and protect nature.  Failure to do so may result in loss of class abilities until a cleansing ritual is perform and forgiveness is begged from the offended spirits.
 
-**Invocation Dice:** As a spellcaster, clerics have the number of invocation dice indicated on the table below, plus a number of additional dice equal to their Wisdom modifier.  The cleric may choose how many dice to roll each time they attempt to cast a spell.
+**Invocation Dice:** As a spellcaster, Druids have the number of invocation dice indicated on the table below, plus a number of additional dice equal to their Wisdom modifier.  The Druid may choose how many dice to roll each time they attempt to cast a spell.
 
-**Spellcasting:** Clerics receive their spells from their deities through prayer and meditation.  The table below shows the number of spells of each level they may be granted upon completing their morning rituals after a full night's rest.  It takes 10 minutes of uninterrupted prayer times the level of the spell for each spell that is to be granted.
+**Spellcasting:** Druids receive their spells from fae and nature spirits meditating and communing with them.  The table below shows the number of spells of each level they may be granted upon completing their morning rituals after a full night's rest.  It takes 10 minutes of uninterrupted meditation times the level of the spell for each spell that is to be granted.
 
-**Exhausting Magic:** At a cost of 1 level of [[Exhaustion]], a cleric may choose to pass an invocation roll that just failed.  This occurs after a normal Invocation Roll, and any expended Invocation Dice are still expended and any Mishaps still occur.
+**Exhausting Magic:** At a cost of 1 level of [[Exhaustion]], a Druid may choose to pass an invocation roll that just failed.  This occurs after a normal Invocation Roll, and any expended Invocation Dice are still expended and any Mishaps still occur.
 
-## Turning the Unholy
-Clerics can invoke the power of their faith to repel supernatural creatures opposed to their divine ethos.  Typically this takes the form of Undead and Fiends, though your GM may have variations on this depending on their campaign and the religions therein.  This causes then to automatically expend one of their Invocation Dice without rolling it.
+## Charm Immunity
+Starting at 3rd level, Druids have Advantage on all saving throws to resist the Charms and Illusions of Fae and Natural creatures.  Beginning at 5th level, the Druid becomes immune to these affects from Natural creatures and this expands to Fae creatures by 7th level.
 
-Compare the HD of any unholy creatures within 30 feet (who can see and hear the cleric) to the level of the cleric on the table below to determine the chance of success.  If the target is a mixed group of creatures, use the HD of the leading creature (typically the highest HD creature that is not mindless).  Upon a successful turning attempt, add 1d6 to the cleric's level.  This is the number of HD worth of creatures (minimum of 1 creature) that are affected in order from lowest HD to highest.
+## Identification
+Druids can automatically identify natural plants and animals and whether water is pure or contaminated (though not necessarily by what).  For especially rare or supernatural plants and animals, the GM may require a *Competency* check modified by Intelligence.
 
-| HD         | Effect |
-|:----------:|:------:|
-| <=L-5      | DD     |
-| L-3 to L-4 | D      |
-| L-2        | T      |
-| L-1        | 8+     |
-|  L         | 11+    |
-| L+1        | 13+    |
-| L+2        | 15+    |
-| L+3        | 17+    |
-| L+4        | 19+    |
-| L+5        | 20     |
-| >=L+6      | --     |
+## Languages
+There is no secret druid language.  However, at 1st level, Druids learn Sylvan.  Every level thereafter, they learn to speak one animal (terrestrial, avian, insect, aquatic, etc) or plant (all plants) language.  At 5th level, they can begin learning fae (dryad, wyrm, pixie, etc) languages.  At 9th level, they can begin learning elemental languages (Primordial, Auran, Aquan, Ignan and Terran)
 
-**Explanation of Effects**
-- **--:** The cleric is incapable of affecting creatures of this HD or higher.
-- **{number}:** To successfully turn these creatures, the cleric must roll this or higher on a d20 plus their WIS modifier.  Creatures are affected as result 'T', below.  If the cleric fails this roll, this group of unholy creatures are immune to being turned by this cleric for 24 hours.
-- **T:** These creatures are automatically Turned.  Turned creatures become [[Frightened]] of the cleric for a number of minutes equal to the cleric's level.
-- **D:** Roll to determine the number of affected hit dice as for a successful turning (as above).  However, instead of becoming Frightened, any unliving creatures are permanently destroyed.  Extra-planar creatures (such as fiends) are banished back to their home plane for a minimum of 1 year per level of the Cleric.  Other living creatures that are affected take 1d6 Holy damage per 2 full levels of the Cleric, each.
-- **DD:** As 'D', above, but the number of HD affected are 3d6 plus the cleric's level and any damage done is 1d6 per Cleric level.
+## Pass Without Trace
+Starting at 3rd level, a druid can pass through natural environments without leaving any tracks. The character is also able to move through overgrown areas at normal speed and without impediment.  This ability imposes *Disadvantage* on attempts to track the druid through natural terrain.  By 5th level, this ability expands to the druid's companions, so long as they remain with 15ft of the druid.
+
+## Pathfinding
+A party with a druid gains *Advantage* on checks to avoid getting lost in a natural outdoor environment.
+
+## Shapechange
+At 2nd level, a druid gains the ability to change form into that of any natural terrestrial animal they are familiar with.  The form assumed may not have more Hit Dice than the druid has levels.  At 3rd level, this ability expands to include natural aquatic and amphibious animals.  At 5th level, the druid may take the form of a natural avian animal.  By 7th level, the druid may take the form of fae animals (such as basilisks, winter wolves, and the like).  Finally at 11th level, the druid may shapechange into the form of an elemental.
+
+Each time the druid uses this ability, they expend one of their Invocation Dice without rolling it.
 
 ## Followers
-A cleric may establish a place of worship (hereafter referred to as a "temple") as soon as they have the means and permission of their holy order to do so.  After establishing a temple and reaching the level of respect and renown afforded to someone of 10th level or higher the PC will attract followers who will appear over the course of several months:
-- 2d6 infantry
-- 1d6 archers
-- 1d3 cavalry
-- 1 sergeant per 10 troops (10% chance of being a 1st level paladin)
-- 1 lieutenant per 3 sergeants (15% chance of being a 2nd level paladin)
-- 1 captain if there are at least 2 lieutenants. (20% chance of being a 3rd level paladin)
-- A number of lay worshipers who will help maintain the temple.
+At any time they have the means to do so, a druid may build a sacred site (referred to hereafter as a "sanctuary") integrated into a natural setting.  However, they may not do so if there is another druid's sanctuary within 100 miles of the site.  Once a sanctuary has been established and upon the druid attaining their 10th level of experience, they will begin attracting followers who will arrive over the next several months:
+- 1d4 rangers (10% chance each of being a warden instead) of levels 1-3
+- 2d4 common soldiers
+- 2d6 common worshipers
+- 2d4 fae and nature spirits
+- a larger than normal number of animals common to the region
 
-The troops only require 50% the normal salary and add +3 to their morale due to religious fervor.  Additionally, each month the cleric should make a Competent Charisma check.  Upon a success, 1d3 1st level clerics will arrive to learn from and assist the PC.  Those followers of 1st level or higher count among the cleric's retainers.  All will belong to the same holy order as the PC.
+These followers arrive to worship at, tend to and help protect the sanctuary.  Additionally, each month the druid should make a Competent Charisma check.  Upon a success, 1d3 1st level apprentice druids will present themselves.  Those followers of 1st level or higher count among the PC's retainers.
 
-## Cleric Level Progression
+## Druid Level Progression
 
 <table>
     <thead>

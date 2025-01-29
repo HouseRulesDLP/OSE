@@ -53,43 +53,43 @@ The column used for the roll should be chosen based on the culture in which your
 
 ### Acolyte
 Feeling the call of the gods, you sought to join the clergy.  Pick an appropriate religion (for examples, see the [Great Church]() and the [Old Faith]()).
-- **Trappings:** Quarterstaff, Holy Symbol, Prayer Book/Wheel, 2d6sp
+- **Trappings:** Quarterstaff, Holy Symbol, Book (prayer), 2d6sp
 
 ### Alchemist
-You brewed chemical concoctions for those who could afford them.
-- **Trappings:** Quarterstaff, Alchemy Kit, 2d6sp
+You brewed chemical concoctions for those who could afford them.  If you don't already have Brew Potion as a class skill, you can you can now brew potions as if you were an Arcanist of 1/3 your level.  Brewing potions requires the use of an Alchemist's Kit.
+- **Trappings:** Quarterstaff, Kit (alchemist's), 2d6sp
 
 ### Animal Handler
 You know animals. In fact, you probably like them better than you like most people.
-- **Trappings:** Whip, Rope, Grooming Kit, a mule; donkey; hunting dog; or similar mundane working animal, 1d6sp
+- **Trappings:** Whip, Rope, Kit (animal handler's), a mule; donkey; hunting dog; or similar mundane working animal, 1d6sp
 
 ### Apothecary
-You learned how to tend the sick, bind wounds, set bones and correct other ailments.
-- **Trappings:** Dagger, Healer's Kit, Soap, 2d6sp
+You learned how to tend the sick, bind wounds, set bones and correct other ailments.  If you don't already have Brew Potion as a class skill, you can you can now brew healing potions as if you were an Cleric of 1/3 your level.  You can also spend 8 hours of downtime to mix up 1d6 + INT modifier doses of medicine which may be used to create or refill a Healer's Kit.  Brewing potions and medicines require the use of an Alchemist's Kit.
+- **Trappings:** Dagger, Kit (healer's), Soap, 2d6sp
 
 ### Artisan
 You are a trained in a particular craft (such as leatherworker, cartwright, shipwright, baker, carpenter, glassblower, tanner, etc).
-- **Trappings:** Dagger, Artisan's Tools for your profession, a letter of introduction from your former teacher, 2d6sp
+- **Trappings:** Dagger, Kit (artisan's) for your profession, a letter of introduction from your former teacher, 2d6sp
 
 ### Barrister
 You are versed in the law and how to represent both peasants and nobles before the courts.
-- **Trappings:** Dagger, Quill, Ink, Parchment (10 sheets), Book (laws), 2d6sp
+- **Trappings:** Dagger, Kit (scribe's), Book (laws), 2d6sp
 
 ### Butcher
-You know how to safely butcher, store and prepare meat of various types.
+You know how to safely butcher, store and prepare meat of various types.  You can safely prepare and cure rations.
 - **Trappings:** Cleaver, A bundle of 7 days' rations (mostly dried meats), 2d6sp
 
 ### Clerk
 You know how to both read and write and how to draft contracts and other legal documents.  You gain literacy without having to spend a language choice on it.
-- **Trappings:** Dagger, Quill, Ink, Parchment (10 pages), 2d6sp
+- **Trappings:** Dagger, Kit (scribe's), 2d6sp
 
 ### Courtier
 You were a court functionary, attendant or some other personage known to the nobility though you are not of noble birth.
-- **Trappings:** Dagger, Excellent Quality Clothing, 3d6sp
+- **Trappings:** Dagger, Clothing (excellent quality), 3d6sp
 
 ### Criminal
 You're well acquainted with the seedy underbelly of society.
-- **Trappings:** Dagger, Crowbar or Disguise Kit, 2d6sp
+- **Trappings:** Dagger, Crowbar or Kit (disguise), 2d6sp
 
 ### Cult Initiate
 You were once initiated into a forbidden cult of worship (for examples see the [Chthonian](), [Elemental](), [Qliphotic]() or [Derlethian]() cults).
@@ -109,19 +109,19 @@ You roamed the forests, watching for poachers and outlaws.
 
 ### Fortune Teller
 Whether by astrology, palmistry, cards or some other means, you predicted peoples' futures.
-- **Trappings:** Dagger, a fortune-telling device (cards, carved stones, astrological charts, etc), 2d6sp
+- **Trappings:** Dagger, Kit (fortune teller's, 2d6sp
 
 ### Gambler
 Games of chance are your bread and butter.
 - Starting Equipment: Dagger, a game of chance (cards, dice, etc), 3d6sp
 
 ### Herbalist
-You know plants and their uses.
-- **Trappings:** Dagger, Herbs (healer's kit), 2d6sp
+You know plants and their uses.  You can also spend 8 hours of downtime to mix up 1d6 + INT modifier doses of medicine which may be used to create or refill a Healer's Kit.  This requires access to various plants and herbs, but does not require an Alchemist's Kit.
+- **Trappings:** Dagger, Kit (healer's), 2d6sp
 
 ### Hermit
 You lived far from others -- either in a sheltered community like a monastery or entirely alone.
-- **Trappings:** Quarterstaff, Prayer Book/Wheel, 2d6sp
+- **Trappings:** Quarterstaff, Book (lore), 2d6sp
 
 ### Hunter
 You hunted animals for their meat and fur.
@@ -129,7 +129,7 @@ You hunted animals for their meat and fur.
 
 ### Jeweler
 You worked on fine gems and jewelry.
-- **Trappings:** Dagger, Jeweler's Tools, a small gem worth 2d6+10sp
+- **Trappings:** Dagger, Kit (jeweler's), a small gem worth 2d6+10sp
 
 ### Laborer
 You performed hard manual labor.
@@ -137,7 +137,7 @@ You performed hard manual labor.
 
 ### Merchant
 You traded goods with anyone with coin or barter.
-- **Trappings:** Dagger, 4d6sp
+- **Trappings:** Dagger, Kit (merchant's), 4d6sp
 
 ### Miner
 You worked the mines, digging up precious stones and metals.
@@ -149,19 +149,19 @@ You made a living by tricking people into giving you money for false promises or
 
 ### Noble
 You were born into or somehow else became a member of the aristocracy.
-- **Trappings:** an [excellent quality]() light or medium weapon, a signet ring, excellent quality Clothes, 3d6sp
+- **Trappings:** an [excellent quality]() light or medium weapon, a signet ring, Clothes (excellent quality), 3d6sp
 
 ### Politician
 You served a mayor's office, village council or similar group of leaders.
-- **Trappings:** Dagger, Quill, Ink, 10 sheets of parchment, 2d6sp
+- **Trappings:** Dagger, Kit (scribe's), 2d6sp
 
 ### Sage
 You studied either in a formal university or apprenticed to a sage.
-- **Trappings:** Dagger, Quill, Ink, 10 sheets of parchment, Book of Lore (pick one subject), 1d6sp
+- **Trappings:** Dagger, Kit (scribe's), Book (lore), 1d6sp
 
 ### Sailor
 You earned a living on the water (whether river, lake or sea).
-- **Trappings:** Belaying Pin (club), Rope (50 ft), 2d6sp
+- **Trappings:** Belaying Pin, Rope (50 ft), 2d6sp
 
 ### Scout
 You know the wilderness and how to lead others through it.
@@ -181,7 +181,7 @@ You were apprenticed to a knight.
 
 ### Stonemason
 You shaped stone for roads and buildings.
-- **Trappings:** Sledge Hammer, Stonemason's Tools, 2d6sp
+- **Trappings:** Sledge Hammer, Kit (stonemason's), 2d6sp
 
 ### Wanderer
 You wandered place-to-place, doing odd jobs or begging.
@@ -189,8 +189,8 @@ You wandered place-to-place, doing odd jobs or begging.
 
 ### Wizard's Apprentice
 You spent time learning the greater mysteries of magic.
-- **Trappings:** Magical Focus, Book of Magical Lore, 2d6sp
+- **Trappings:** Dagger, Book (magic lore), 2d6sp
 
 ### Woodcutter
 You search the forests for quality trees for building or burning into charcoal.
-- **Trappings:** Hatchet, Firestarting Kit, 2d6sp
+- **Trappings:** Hatchet, Tinderbox, 2d6sp
