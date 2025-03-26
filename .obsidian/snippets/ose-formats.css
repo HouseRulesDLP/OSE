@@ -1,0 +1,198 @@
+/* --------------------------------------------   */
+/* Custom fonts. Comment or change as required    */
+@import url(https://db.onlinewebfonts.com/c/cced4e510c3db5d90f32c0732eddaf8a?family=Futura);
+@import url(https://db.onlinewebfonts.com/c/fe9c236a1c142788cb16ec5238c7833e?family=Minion+Pro);
+@import url(https://db.onlinewebfonts.com/c/7bb6bf59a33b5be38c685d9c895cb4f0?family=Council);
+@import url(https://db.onlinewebfonts.com/c/30032fc492ea3477d92f5ab0df06ef8b?family=Economica);
+/* --------------------------------------------   */
+
+/* Text */
+{
+    font-family: 'Minion Pro' !important;
+    font-size: 12pt;
+    font-weight: normal;
+}
+body {
+    --h1-size: 40pt;
+    --h1-font: 'Council';
+    --h2-size: 30pt;
+    --h2-font: 'Council';
+    --h3-size: 20pt;
+    --h4-size: 15pt;
+    --h5-size: 12pt;
+    --h5-font: 'Minion Pro';
+}
+/* Text */
+
+/* Description block */
+.descriptive {
+    background-color: #d9ead3;
+    font-family: 'Minon Pro';
+    box-shadow: 0 0 0 #ffffff;
+}
+.descriptive p {
+    font-size: 9.84pt;
+}
+.descriptive em {
+    font-family: 'Minion Pro';
+}
+.descriptive strong {
+    font-family: 'Minion Pro';
+}
+/* Description block */
+
+/* Note */
+blockquote {
+    font-family: 'Minion Pro';
+    font-size: 9.84px;
+    background-color: #d9ead3;
+    border-width: 5px;
+    border-image-outset: 5px 0px;
+    box-shadow: 0px 1px 5px;
+}
+/* Note */
+
+/* Obsidian default theme uses centered headers? */
+/* I rather not */
+table thead tr th {
+	text-align: left;
+}
+
+/* Descriptive block for tables. */
+.descriptiveBlack {
+    display: block-inline;
+    margin-bottom: 0.25em;
+    background-color: #231f20;
+    padding-left: 5px;
+    font-family: 'Futura';
+    font-size: 13.5pt;
+    font-weight: normal;
+    color: black;
+    border-style: none;
+    border-image: none;
+    box-shadow: 0 0 0 black;
+}
+.descriptiveBlack p {
+    display: block;
+    padding-bottom: 0;
+    line-height: 1.5em;
+}
+.descriptiveBlack p+p {
+    padding-top: 8em;
+}
+.descriptiveBlack em {
+    font-family: 'Futura';
+    font-style: italic;
+}
+.descriptiveBlack strong {
+    font-family: 'Futura';
+    font-weight: 800;
+    letter-spacing: -0.02em;
+}
+/* Descriptive block for tables. */
+
+/*
+=========================
+=======Customizers=======
+=========================
+These are custom "hacks" that can be applied to any
+table (with/without custom table visual css).
+If you're already using other classes in your note,
+remember you can stack these in the cssclass 
+parameter, like:
+
+cssclass: tableClass1, hackClass2, userClass3, etc
+
+
+
+/* --------------------------------------------   */
+/* Make tables width same as default note width   */
+/* --------------------------------------------   */
+.wideTable table {
+	min-width: 100%;
+}
+/* --------------------------------------------   */
+
+/* --------------------------------------------   */
+/* If you wanna change table margin, do it here   */
+/* --------------------------------------------   */
+.customMargin table {
+	margin: 0;
+}
+/* --------------------------------------------   */
+
+/*
+=========================
+======Table styles=======
+=========================
+Almost all table themes here are either 
+frankenstein monsters of their originals
+or related to it. These were found
+on the www inside codepens, stackoverflow 
+threads and forums. Any credit belongs to 
+the creators and this is a free/open tribute
+for these contributions. 
+
+Usage:
+Select any table style to use in your cssclass.
+
+Eg. cssclass: purpleRed
+
+Remember that you can stack hacks!
+
+Eg. cssclass: purpleRed, wideTable
+
+*/
+
+
+/* --------------------------------------------   */
+/* OSE table-layout:                              */
+/* --------------------------------------------   */
+.ose table {
+    border: solid 2px black;
+    border-collapse: collapse;
+    border-spacing: 0;
+    width: auto;
+    overflow-x: auto;
+    box-shadow: 0 0 20px rgba(0,0,0,0.15);
+    color: black;
+    background-color: white;
+    font-family: 'Minion Pro';
+    font-size: 12pt;
+    padding-bottom: .1em;
+    padding-top: .2em;
+}
+.ose th, .ose td {
+    border: 0 none;
+    padding: 0 none;
+    line-height: 1.1;
+}
+.ose table > thead > tr {
+    border-bottom: 1.36px solid black;
+}
+.ose table thead th {
+    background-color: white !important;
+    color: black !important;
+    font-weight: bold;
+    font-size: 18px;
+    vertical-align: bottom;
+    padding-bottom: .1em;
+    padding-right: .1em;
+    padding-left: .1em;
+    border-bottom: 2pt solid #231f20;
+}
+.ose table tr:nth-child(odd) {
+    background-color: #d9ead3;
+}
+.ose table tbody tr:hover td {
+    background-color: #f5f1da;
+}
+.ose table tfoot td {
+    background-color: white !important;
+    color: black !important;
+    font-weight: normal !important;
+    font-size: 12px !important;
+    padding: 4px 5px 2px 4px;
+}
+/* --------------------------------------------   */
+

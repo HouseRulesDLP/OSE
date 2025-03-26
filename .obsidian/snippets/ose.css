@@ -1,0 +1,351 @@
+/* ----------- */
+/* Font import */
+/* ----------- */
+@import url(https://db.onlinewebfonts.com/c/cced4e510c3db5d90f32c0732eddaf8a?family=Futura);
+@import url(https://db.onlinewebfonts.com/c/fe9c236a1c142788cb16ec5238c7833e?family=Minion+Pro);
+@import url(https://db.onlinewebfonts.com/c/7bb6bf59a33b5be38c685d9c895cb4f0?family=Council);
+@import url(https://db.onlinewebfonts.com/c/30032fc492ea3477d92f5ab0df06ef8b?family=Economica);
+/* ----------- */
+
+/* ---- */
+/* Text */
+/* ---- */
+{ 
+    font-family: 'Minion Pro';
+    font-size: 12pt;
+    font-weight:normal;
+}
+/* ---- */
+
+/* ------- */
+/* Headers */
+/* ------- */
+.markdown-preview-view h1,
+.cm-header-1 {
+    font-size: 80pt;
+    font: 'Council';
+    font-weight: normal;
+    letter-spacing: 0.025em;
+    margin-top: -18px;
+    margin-bottom: 30px;
+    text-shadow:3px 3px 2px #fff,-3px 3px 2px #fff,3px -3px 2px #fff,-3px -3px 2px #fff,0px -3px 2px #fff,-3px 0px 2px #fff,3px 0px 2px #fff,0px 3px 2px #fff;
+    padding-bottom: 20px;
+}
+.markdown-preview-view h2,
+.cm-header-2 {
+    font-size: 42pt;
+    font: 'Council';
+    font-weight: normal;
+    letter-spacing: 0.025em;
+    line-height: 0.9;
+}
+.markdown-preview-view h3,
+.cm-header-3 {
+    font-size: 18pt;
+    color: black;
+    background-color: #d9ead3;
+    border-bottom: 0pt solid #000;
+}
+.markdown-preview-view h4,
+.cm-header-4 {
+    font-size:15.5pt; 
+}
+.markdown-preview-view h5,
+.cm-header-5 {
+    font-family: 'Minion Pro';
+    font-size: 12pt;
+    line-height:1.3em;
+    font-weight: normal;
+    border-bottom:1pt solid #000
+}
+.markdown-preview-view h6,
+.cm-header-6 {
+    display: block-inline;
+    margin-bottom: 0.25em;
+    background-color: black;
+    color: white;
+    padding-left: 5px;
+    font-family: 'Futura';
+    font-size: 16pt;
+    font-weight: bold;
+    border-style: none;
+    border-image: none;
+    box-shadow: 0 0 0 black;
+}
+/* ------- */
+
+/* ------ */
+/* Tables */
+/* ------ */
+.ose table {
+    border: solid 2px black;
+    border-collapse: collapse;
+    border-spacing: 0;
+    width: auto;
+    overflow-x: auto;
+    box-shadow: 0 0 20px rgba(0,0,0,0.15);
+    color: black;
+    background-color: white;
+    font-family: 'Minion Pro';
+    font-size: 12pt;
+    padding-bottom: .1em;
+    padding-top: .2em;
+}
+.ose th, .ose td {
+    border: 0 none;
+    padding: 0 none;
+    line-height: 1.1;
+}
+.ose table > thead > tr {
+    border-bottom: 1.36px solid black;
+}
+.ose table thead th {
+    background-color: white !important;
+    color: black !important;
+    font-weight: bold;
+    font-size: 18px;
+    vertical-align: bottom;
+    padding-bottom: .1em;
+    padding-right: .1em;
+    padding-left: .1em;
+    border-bottom: 2pt solid #231f20;
+}
+.ose table tr:nth-child(odd) {
+    background-color: #d9ead3;
+}
+.ose table tbody tr:hover td {
+    background-color: #f5f1da;
+}
+.ose table tfoot td {
+    background-color: white !important;
+    color: black !important;
+    font-weight: normal !important;
+    font-size: 12px !important;
+    padding: 4px 5px 2px 4px;
+}
+/* ------ */
+
+/* ---- */
+/* Note */
+/* ---- */
+.ose-note {
+    font-family: 'Minion Pro';
+    font-size: 12pt;
+    background-color: #d9ead3;
+    color: black;
+    border-width: 5px;
+    border-image-outset: 5px 0px;
+    box-shadow: 0px 1px 5px;
+}
+/* ---- */
+
+.TableBold { 
+    font-family: Futura; 
+    font-size: 13.5pt;
+    font-weight:normal; 
+    color:#231f20
+}
+.phb h1+p::first-letter {
+    float:none;
+    font-family:Minion Pro;
+    font-size:12pt;
+    color:#231f20;
+    line-height:1.3em;
+    font-weight:normal;
+}
+.phb h4, 
+.phb h3{
+    font-family: Futura;
+    color: #231f20;
+    font-weight:normal;
+}
+
+/* Tables */
+.phb table{
+    font-family: Minion Pro;
+    font-size: 12pt;
+}
+.phb table tbody tr:nth-child(odd){
+    background-color:#d9ead3;
+}/*change backing of rows*/
+
+/* Class Table */  
+.phb .classTable{
+    border-image-source: none;
+    border: none;
+}
+.phb .classTable h5{
+    font-family: Minion Pro;
+    font-weight: bold;
+}
+.phb .classTable table tbody tr:nth-child(odd){
+    background-color:#FFF;
+}
+
+/* Description block */
+.phb .descriptive { 
+    padding-left:5px;
+    padding-top:1px;
+    padding-bottom:1px;
+    margin-bottom:0.25em;
+    background-color: #d9ead3;
+    border-image: none;
+    border: none;
+    font-family: Minion Pro;
+    box-shadow:0 0 0 #ffffff
+}
+.phb .descriptive p{
+    font-size:9.84pt;
+}
+.phb .descriptive em{
+    font-family:Minion Pro;
+}
+.phb .descriptive strong{
+    font-family: Minion Pro;
+}
+
+/* Note */
+.phb blockquote{
+    font-family: Minion Pro;
+    font-size: 9.84pt;
+    background-color:#d9ead3;
+    border-width:5px;
+    border-image-outset:5px 0px; 
+    box-shadow:0px 1px 5px;
+}
+
+/* Stat Block */
+.phb hr+section blockquote{
+    background: white;
+    border: 3px solid #e6e6e6;
+    box-shadow: none;
+}
+.phb hr+section blockquote h2{
+    font-family:Futura;
+    font-size:20pt
+}
+.phb hr+section blockquote h3{
+    font-family:Futura;
+    font-size:15.5pt;
+    border-bottom:1px solid #000;
+}
+.phb hr+section blockquote hr+ul{
+    color: #000;
+}
+.phb hr+section blockquote table{
+    color: #000;
+}
+.phb hr+section blockquote hr{
+    background-image: url(https://gmbinder.com/images/MS0gM8Z.png)
+}
+
+/* legacy footer */
+.phb .footnote{
+    color:#000;
+    font-size:12pt
+}
+.phb a{
+    color:black;
+}
+
+/* PageNum */
+.phb .pageNumber{
+    color:#231f20;
+    font-size:12pt;
+    font-weight:bold;
+    position:absolute;
+    right:2px;
+    bottom:6px;
+    width:1590px;
+    text-align:center
+}
+
+/* Footer */
+.phb:after {
+    content: "";
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    height: 55px;
+    width: 100%;
+    background-image: url('https://www.gmbinder.com/images/KGUQwdn.png');
+    z-index:-1;
+    background-size: cover;
+    transform: scaleX(-1)
+}
+.phb:nth-child(even):after {
+    background-image: url('https://www.gmbinder.com/images/KGUQwdn.png');
+    z-index:-1;
+    background-size: cover;
+    transform: scaleX(1)
+}
+
+/* Descriptive Box for Tables */
+.phb .descriptiveBlack{
+    display:block-inline;
+    margin-bottom:0.25em;
+    background-color:#231f20;
+    padding-left:5px;
+    font-family:Futura;
+    font-size: 13.5pt;
+    font-weight:normal;
+    color:#ffffff;
+    border-style:none;
+    border-image:none;
+    box-shadow:0 0 0 #ffffff
+}
+.phb .descriptiveBlack p{
+    display:block;
+    padding-bottom:0;
+    line-height:1.5em
+}
+.phb .descriptiveBlack p+p{
+    padding-top:.8em
+}
+.phb .descriptiveBlack em{
+    font-family:Futura;
+    font-style:italic
+}
+.phb .descriptiveBlack strong{
+    font-family:Futura;
+    font-weight:800;
+    letter-spacing:-0.02em
+}
+.phb pre+.descriptiveBlack{
+    margin-top:8px
+}
+
+/* Front Page Title */
+.phb .cover-header{
+    position:absolute;
+    font-family:Economica;
+    transform:scale(2, 2) !important;
+    font-weight:normal;
+    font-size:31px;
+    color:white;
+    width:688px;
+    text-shadow:1px 1px 1px #231f20,-1px 1px 1px #231f20,1px -1px 1px #231f20,-1px -1px 1px #231f20,0px -1px 1px #231f20,-1px 0px 1px #231f20,1px 0px 1px #231f20,0px 1px 1px #231f20;
+    transform:scaleY(3) scaleX(1);
+    top:964px;
+    text-align:center
+}
+
+/* Underline for Table */
+.phb table {
+  border-collapse: collapse;
+}
+.phb table thead th {
+    vertical-align: bottom;
+    padding-bottom: .1em;
+    padding-right: .1em;
+    padding-left: .1em;
+    border-bottom: 2pt solid #231f20;
+}
+.phb table tbody tr td,
+.phb table thead tr th
+{
+    padding-bottom: .1em;
+    padding-top: .2em;
+}
+</style>
+

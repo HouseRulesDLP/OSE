@@ -1,0 +1,13 @@
+{
+  "accentColor": "",
+  "interfaceFontFamily": "",
+  "textFontFamily": "Courier",
+  "theme": "system",
+  "enabledCssSnippets": [
+    "clean-embeds",
+    "table-formats",
+    "rule-formats",
+    "tableStyles",
+    "ose"
+  ]
+}
