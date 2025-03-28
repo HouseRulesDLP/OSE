@@ -1,15 +1,16 @@
-# Goblin
-**AKA**: Kobold, Koballus, Luton, Skreetok<br/>
+## Goblin
+<div class="ose-note">
+<b>AKA:</b> Kobold, Koballus, Luton, Skreetok</br>
+<b>Requirements:</b> DEX 9, CON 9</br>
+<b>Starting Age:</b> 10 + 1d4 years</br>
+<b>Height:</b> 46 + 2d8 inches {4' to 5' 2"}</br>
+<b>Weight:</b> 55 + (height roll * 2d4) pounds {59 to 183 lbs}</br>
+<b>Size:</b> Small</br>
+<b>Speed:</b> 30 ft</br>
+<b>Tags:</b> Humanoid, Fae</br>
+</div>
 Goblins are a species of naturally nocturnal humanoids most commonly found in the woods and mountains.  They stand 4 to 5 feet in height, have pointed ears, cat-like eyes, sharp teeth, long arms and spare or patchy body hair.  Their skin tones are some shade of gray, red, yellow or green.  They typically stand between 4 and 5 feet in height and have a lifespan rarely exceeding 50 years.
-- **Starting Age:** 10 + 1d4 years
-- **Height:** 46 + 2d8 inches {4' to 5' 2"}
-- **Weight:** 55 + (height roll * 2d4) lbs {59 to 183 lbs}
-- **Size:** Small
-- **Speed:** 30 ft
-- **Tags:** Humanoid, Fae
 
----
-## Features
 ### Fey Blooded
 Due to their inherently magical nature, goblins gain a +2 bonus on all Saving Throws vs magic.
 

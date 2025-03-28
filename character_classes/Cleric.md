@@ -1,19 +1,20 @@
 ---
-cssclass: flatGrey
+cssclass: ose
 ---
-# Cleric
-OSE Advanced (pg 36)
+## Cleric
+<div class="ose-note">
+<b>Reference:</b> OSE Advanced (pg 36)<br/>
+<b>Requirements:</b> WIS 11<br/>
+<b>Hit Dice:</b> 1d6<br/>
+<b>Armor:</b> Light & Medium plus Shields<br/>
+<b>Weapons:</b> Light & Medium<br/>
+<b>Literate: Yes</b> 
+</div>
 
-## Features
-- **Prime Requisite:** Wisdom 11+
-- **Hit Dice:** 1d6
-- **Armor:** Light & Medium plus Shields
-- **Weapons:** Light & Medium
-
-## Equipment
+### Equipment
 - A Priest's pack or Explorer's pack.
 - 4d6sp
-## Cleric Skills
+### Cleric Skills
 **Detect Holy (+0):**  A Cleric can detect holy and unholy spirits and magic, including those inhabiting or possessing other objects/beings. Doing so requires [[Concentration]] and a full minute; so they cannot tell if something is present with a simple glance and people tend to notice when being stared at.
 
 **Prepare Scroll (+0):** Clerics can create holy spell scrolls and protection scrolls.  See the rules on [magic item creation]() for details.
@@ -24,12 +25,13 @@ OSE Advanced (pg 36)
 
 **Create Major Holy Item (-5):** Starting at 10th level, clerics can create major magic items that are of a holy nature.  See the rules on [magic item creation]() for details.
 
-**Create Holy Artifact (-10):** Starting at 14th level, clerics can create holy artifacts.  See the rules on [magic item creation]() for details.
-
+<div class="ose-note">
+<b>Uncertainty:</b></br>
 The DM should typically roll for Detect Holy and Brew Potion as it may not be immediately obvious if the skill check succeeds or not.
+</div>
 
-## Divine Magic
-**Holy Symbol:** A cleric must carry a Holy Symbol which also serves as their spellcasting focus. This holy symbol may take most any form (a an amulet, an embossed shield, a circlet, etc), but must be easily seen, recognized and potentially grabbed by others. It also takes up 1 Inventory Slot. A holy symbol may be replaced by consecrating a new one which takes 1 week in a Safe Haven and 100sp worth of materials.
+### Divine Magic
+**Holy Symbol:** A cleric must carry a Holy Symbol which also serves as their spellcasting focus. This holy symbol may take most any form (an amulet, an embossed shield, a circlet, etc), but must be easily seen, recognized and potentially grabbed by others. It also takes up 1 Inventory Slot. A holy symbol may be replaced by consecrating a new one which takes 1 week in a Safe Haven and 100sp worth of materials.
 
 For every level the Cleric has, they may carve a sigil into their Holy Symbol.  Each sigil represents a specific spell the Cleric has learned (i.e. granted by their deity). Whenever they cast one of these spells, while holding this Holy Symbol, the player rolls d8s for their Invocation Dice instead of d6s. It takes 1 Day and 50sp times the spell's Rank to engrave a new sigil into a Holy Symbol.
 
@@ -43,8 +45,8 @@ Having a Holy Symbol in hand does not count against needing a free hand for spel
 
 **Exhausting Magic:** At a cost of 1 level of [[Exhaustion]], a cleric may choose to pass an invocation roll that just failed.  This occurs after a normal Invocation Roll, and any expended Invocation Dice are still expended and any Mishaps still occur.
 
-## Turning the Unholy
-Clerics can invoke the power of their faith to repel supernatural creatures opposed to their divine ethos.  Typically this takes the form of Undead and Fiends, though your GM may have variations on this depending on their campaign and the religions therein.  This causes then to automatically expend one of their Invocation Dice without rolling it.
+### Turning the Unholy
+Clerics can invoke the power of their faith to repel supernatural creatures opposed to their divine ethos.  Typically this takes the form of Undead and Fiends, though your GM may have variations on this depending on their campaign and the religions therein.  This causes them to automatically expend one of their Invocation Dice without rolling it.
 
 Compare the HD of any unholy creatures within 30 feet (who can see and hear the cleric) to the level of the cleric on the table below to determine the chance of success.  If the target is a mixed group of creatures, use the HD of the leading creature (typically the highest HD creature that is not mindless).  Upon a successful turning attempt, add 1d6 to the cleric's level.  This is the number of HD worth of creatures (minimum of 1 creature) that are affected in order from lowest HD to highest.
 
@@ -62,27 +64,17 @@ Compare the HD of any unholy creatures within 30 feet (who can see and hear the 
 | L+5        | 20     |
 | >=L+6      | --     |
 
-**Explanation of Effects**
+##### Explanation of Effects
 - **--:** The cleric is incapable of affecting creatures of this HD or higher.
 - **{number}:** To successfully turn these creatures, the cleric must roll this or higher on a d20 plus their WIS modifier.  Creatures are affected as result 'T', below.  If the cleric fails this roll, this group of unholy creatures are immune to being turned by this cleric for 24 hours.
 - **T:** These creatures are automatically Turned.  Turned creatures become [[Frightened]] of the cleric for a number of minutes equal to the cleric's level.
 - **D:** Roll to determine the number of affected hit dice as for a successful turning (as above).  However, instead of becoming Frightened, any unliving creatures are permanently destroyed.  Extra-planar creatures (such as fiends) are banished back to their home plane for a minimum of 1 year per level of the Cleric.  Other living creatures that are affected take 1d6 Holy damage per 2 full levels of the Cleric, each.
 - **DD:** As 'D', above, but the number of HD affected are 3d6 plus the cleric's level and any damage done is 1d6 per Cleric level.
 
-## Followers
-A cleric may establish a place of worship (hereafter referred to as a "temple") as soon as they have the means and permission of their holy order to do so.  After establishing a temple and reaching the level of respect and renown afforded to someone of 10th level or higher the PC will attract followers who will appear over the course of several months:
-- 2d6 infantry
-- 1d6 archers
-- 1d3 cavalry
-- 1 sergeant per 10 troops (10% chance of being a 1st level paladin)
-- 1 lieutenant per 3 sergeants (15% chance of being a 2nd level paladin)
-- 1 captain if there are at least 2 lieutenants. (20% chance of being a 3rd level paladin)
-- A number of lay worshipers who will help maintain the temple.
+### Followers
+A cleric may establish a place of worship (hereafter referred to as a "temple") as soon as they have the means and permission of their holy order to do so.  After establishing a temple and reaching the level of respect and renown afforded to someone of 10th level or higher the PC will attract followers.  The GM will inform you of when and how many followers appear.
 
-The troops only require 50% the normal salary and add +3 to their morale due to religious fervor.  Additionally, each month the cleric should make a Competent Charisma check.  Upon a success, 1d3 1st level clerics will arrive to learn from and assist the PC.  Those followers of 1st level or higher count among the cleric's retainers.  All will belong to the same holy order as the PC.
-
-## Cleric Level Progression
-
+###### Cleric Level Progression
 <table>
     <thead>
     <tr>

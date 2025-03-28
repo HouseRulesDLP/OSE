@@ -1,20 +1,21 @@
 ---
 cssclasses:
-  - flatGrey
+  - ose
 ---
-# Paladin
-OSE Advanced (pg 68)
+## Paladin
+<div class="ose-note">
+<b>Reference:</b> OSE Advanced (pg 68)<br/>
+<b>Requirements:</b> STR 11, WIS 11<br/>
+<b>Hit Dice:</b> 1d8<br/>
+<b>Armor:</b> Any & Shields<br/>
+<b>Weapons:</b> Any<br/>
+<b>Literate: Yes</b> 
+</div>
 
-## Features
-- **Prime Requisite:** STR 11+, WIS 11+
-- **Hit Dice:** 1d8
-- **Armor:** Any & Shields
-- **Weapons:** Any
-
-## Equipment
+### Equipment
 - A {type} pack or {type} pack.
 - 4d6sp
-## Paladin Skills
+### Paladin Skills
 
 **Holy Magic:** This is the paladin's knowledge of holy magic (including Detect Holy, Prepare Scroll, Brew Potion, Create Minor Holy Item, etc).
 
@@ -26,9 +27,12 @@ OSE Advanced (pg 68)
 
 **Create Minor Holy Item (-3):** Starting at 10th level, paladins can create minor magic items that are of a holy nature.  See the rules on [magic item creation]() for details.
 
+<div class="ose-note">
+<b>Uncertainty:</b></br>
 The DM should typically roll for Detect Holy and Brew Potion as it may not be immediately obvious if the skill check succeeds or not.
+</div>
 
-## Divine Magic
+### Divine Magic
 **Holy Symbol:** A Paladin must carry a Holy Symbol which also serves as their spellcasting focus. This holy symbol may take most any form (a an amulet, an embossed shield, a circlet, etc), but must be easily seen, recognized and potentially grabbed by others. It also takes up 1 Inventory Slot. A holy symbol may be replaced by consecrating a new one which takes 1 week in a Safe Haven and 100sp worth of materials.
 
 For every caser level the Paladin has, they may carve a sigil into their Holy Symbol.  Each sigil represents a specific spell the Paladin has learned (i.e. granted by their deity). Whenever they cast one of these spells, while holding this Holy Symbol, the player rolls d8s for their Invocation Dice instead of d6s. It takes 1 Day and 50sp times the spell's Rank to engrave a new sigil into a Holy Symbol.
@@ -42,15 +46,17 @@ Having a Holy Symbol in hand does not count against needing a free hand for spel
 **Spellcasting:** Paladins receive their spells from their deities through prayer and meditation.  The table below shows the number of spells of each level they may be granted upon completing their morning rituals after a full night's rest.  It takes 10 minutes of uninterrupted prayer times the level of the spell for each spell that is to be granted.
 
 **Exhausting Magic:** At a cost of 1 level of [[Exhaustion]], a Paladin may choose to pass an invocation roll that just failed.  This occurs after a normal Invocation Roll, and any expended Invocation Dice are still expended and any Mishaps still occur.
-## Holy Resistance
+
+### Holy Resistance
 Paladins have *Advantage* on all saving throws to resist disease.
-## Laying on Hands
-The touch of a paladin may heal 2 hit points per level per day.  These hit points do not all have to be used at once or on the same target.  Starting at 5th level, the paladin's touch may cure one natural disease.  This expands to two uses at level 10 and three at level 15.
 
-## Turning the Unholy
-Paladins can invoke the power of their faith to repel supernatural creatures opposed to their divine ethos.  Typically this takes the form of Undead and Fiends, though your GM may have variations on this depending on their campaign and the religions therein.  This causes then to automatically expend one of their Invocation Dice without rolling it.
+### Laying on Hands
+The touch of a paladin may heal 2 hit points per level per day.  These hit points do not all have to be used at once or on the same target.  Starting at 5th level, the paladin's touch may cure one natural disease per day.  This expands to two uses at level 10 and three at level 15.
 
-Compare the HD of any unholy creatures within 30 feet (who can see and hear the Paladin) to the caster level of the Paladin on the table below to determine the chance of success.  If the target is a mixed group of creatures, use the HD of the leading creature (typically the highest HD creature that is not mindless).  Upon a successful turning attempt, add 1d6 to the Paladin's level.  This is the number of HD worth of creatures (minimum of 1 creature) that are affected in order from lowest HD to highest.
+### Turning the Unholy
+Paladins can invoke the power of their faith to repel supernatural creatures opposed to their divine ethos.  Typically this takes the form of Undead and Fiends, though your GM may have variations on this depending on their campaign and the religions therein.  This causes them to automatically expend one of their Invocation Dice without rolling it.
+
+Compare the HD of any unholy creatures within 30 feet (who can see and hear the Paladin) to the *caster level* of the Paladin on the table below to determine the chance of success.  If the target is a mixed group of creatures, use the HD of the leading creature (typically the highest HD creature that is not mindless).  Upon a successful turning attempt, add 1d6 to the Paladin's level.  This is the number of HD worth of creatures (minimum of 1 creature) that are affected in order from lowest HD to highest.
 
 | HD         | Effect |
 |:----------:|:------:|
@@ -66,30 +72,23 @@ Compare the HD of any unholy creatures within 30 feet (who can see and hear the 
 | CL+5        | 20     |
 | >=CL+6      | --     |
 
-**Explanation of Effects**
+##### Explanation of Effects
 - **--:** The Paladin is incapable of affecting creatures of this HD or higher.
 - **{number}:** To successfully turn these creatures, the Paladin must roll this or higher on a d20 plus their WIS modifier.  Creatures are affected as result 'T', below.  If the Paladin fails this roll, this group of unholy creatures are immune to being turned by this Paladin for 24 hours.
 - **T:** These creatures are automatically Turned.  Turned creatures become [[Frightened]] of the Paladin for a number of minutes equal to the Paladin's level.
 - **D:** Roll to determine the number of affected hit dice as for a successful turning (as above).  However, instead of becoming Frightened, any unliving creatures are permanently destroyed.  Extra-planar creatures (such as fiends) are banished back to their home plane for a minimum of 1 year per caster level of the Paladin.  Other living creatures that are affected take 1d6 Holy damage per 2 full caster levels of the Paladin, each.
 - **DD:** As 'D', above, but the number of HD affected are 3d6 plus the Paladin's caster level and any damage done is 1d6 per caster level.
-## Smite
-Paladins may infuse holy power into their strikes.  After a successful hit against an unholy creature (as would be affected but their Turn the Unholy ability), they may choose to roll one of their Invocation Dice and add it to the damage.  The invocation die is expended if it rolls a 1 or 2, as normal.  This damage is considered magical for the purposes of overcoming damage resistance and immunity.  At level 5, the paladin may invest 2 Invocation Dice on a single attack.  This expands to three dice at level 10 and four dice at level 15.
-## Warhorse
+
+### Smite
+Paladins may infuse holy power into their strikes.  After a successful hit against an unholy creature (as would be affected but their Turn the Unholy ability), they may choose to roll one of their Invocation Dice and add it to the damage.  The invocation die is expended if it rolls a 1 or 2, as normal.  This damage is considered holy magic for the purposes of overcoming damage resistance and immunity.  At level 5, the paladin may invest 2 Invocation Dice on a single attack.  This expands to three dice at level 10 and four dice at level 15.
+
+### Warhorse
 A paladin of 4th level or higher may summon a holy warhorse.  This counts as a Heavy Warhorse, with an unusually high intelligence and absolute loyalty to the paladin.  If the horse dies, a new warhorse may not be summoned for a year and a day.  The summoning ritual takes a full day and must be performed at a holy site and requires 1,000sp worth of sacrifices, incense and other ritual paraphernalia.  The ritual must also be lead by a cleric of at least 5th level.  As the paladin gains levels, their horse will become stronger, gaining 1 Hit Die for each caster level of the paladin past 2nd (i.e. +1 HD at caster level 3, +2 at caster level 4, etc).
-## Followers
-A paladin may conquer or build a stronghold at any time they have the means to do so.  After establishing their stronghold they may be granted a noble title, but the land will still technically belong to their religious order.  With a stronghold, after reaching the prestige that comes with attaining 10th level, they will draw followers who will swear fealty to the new lord/lady.  These followers consist of the following:
-- 2d6 infantry
-- 2d6 archers
-- 2d6 cavalry
-- 1 sergeant per 10 troops
-- 1 lieutenant per 3 sergeants
-- 1 captain if there are at least 2 lieutenants
-- A number of peasants, depending on how tame and abundant the surrounding lands are, will arrive to work the land.
 
-These followers will all trickle in over the course of several months and will garrison the PC's stronghold for 50% the normal pay and have +2 morale due to their loyalty.  Finally, each month the PC should make a Competent Charisma check.  Upon a success, they will also attract 1d2 1st level paladins seeking to be their squire.  All followers of 1st level or higher will count among the PC's retainers.
+### Followers
+A paladin may conquer or build a stronghold at any time they have the means to do so.  After establishing their stronghold they may be granted a noble title, but the land will still technically belong to their religious order.  With a stronghold, after reaching the prestige that comes with attaining 10th level, they will draw followers who will swear fealty to the new lord/lady.  The GM will inform you of what followers arrive and when.
 
-## Paladin Level Progression
-
+###### Paladin Level Progression
 <table>
     <thead>
         <tr>

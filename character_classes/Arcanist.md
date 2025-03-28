@@ -1,20 +1,21 @@
 ---
 cssclasses:
-  - flatGrey
+  - ose
 ---
-# Arcanist
-OSE Advanced (pg 66)
+## Arcanist
+<div class="ose-note">
+<b>Reference:</b> OSE Advanced (pg 66)<br/>
+<b>Requirements:</b> INT 11<br/>
+<b>Hit Dice:</b> 1d4<br/>
+<b>Armor:</b> None<br/>
+<b>Weapons:</b> Light & Staff<br/>
+<b>Literate:</b> Yes
+</div>
 
-## Features
-- **Prime Requisite:** INT 11+
-- **Hit Dice:** 1d4
-- **Armor:** None
-- **Weapons:** Light & Staff
-
-## Equipment
+### Equipment
 - A {type} pack or {type} pack.
 - 4d6sp
-## Arcanist Skills
+### Arcanist Skills
 **Detect Magic (+0):** Being sensitive to the world of magic, an arcanist may determine if a person, place or thing is magical. Doing so requires [[Concentration]] and a full minute; so you cannot tell if something is magical simply by being in its presence and people tend to notice when a spellcaster is staring at them. You can also attempt to decipher magical writing in the same way with this skill.
 
 **Prepare Scroll (+0):** arcanists can create arcane spell scrolls and protection scrolls.  See the rules on [magic item creation]() for details.
@@ -25,11 +26,12 @@ OSE Advanced (pg 66)
 
 **Create Major Magic Item (-5):** Starting at 10th level, arcanists can create major arcane items.  See the rules on [magic item creation]() for details.
 
-**Create Magic Artifact (-10):** Starting at 14th level, arcanists can create arcane artifacts.  See the rules on [magic item creation]() for details.
-
+<div class="ose-note">
+<b>Uncertainty:</b></br>
 The DM should typically roll for Detect Magic and Brew Potion as it may not be immediately obvious if the skill check succeeds or not.
+</div>
 
-## Arcane Magic
+### Arcane Magic
 **Magical Focus:** As part of their apprenticeship, arcanists create a Magical Focus to aid in casting spells. This focus may take most any form (a staff, wand, amulet or similar), but must be easily seen, recognized and hand-held. It also takes up 1 Inventory Slot. A focus may be replaced by constructing a new one which takes 1 week in a Safe Haven and 100sp worth of materials.
 
 For every level the arcanist has, they may carve a sigil into their focus.  Each sigil represents a specific spell the arcanist has learned (i.e. recorded in their Spellbook). Whenever they cast one of these spells, while holding their Magical Focus, the player rolls d8s for their Invocation Dice instead of d6s. It takes 1 Day times the spell's Rank and 50sp per Day to engrave a new sigil into a focus.
@@ -40,14 +42,14 @@ Having a Magical Focus in hand does not count against needing a free hand for sp
 
 **Spellcasting:** arcanists record their spells in their spellbooks as arcane formulae.  Before a spell can be cast, however, it must be prepared.  The table below shows the number of spells of each level they may prepare after a full night's rest.  This takes 10 minutes of uninterrupted meditation and ritual times the Rank of the spell.
 
-**Exhausting Magic:** At a cost of 1 level of [[Exhaustion]], a arcanist may choose to pass an invocation roll that just failed.  This occurs after a normal Invocation Roll, and any expended Invocation Dice are still expended and any [[Mishaps]] still occur.
+**Exhausting Magic:** At a cost of 1 level of [[Exhaustion]], an arcanist may choose to pass an invocation roll that just failed.  This occurs after a normal Invocation Roll, and any expended Invocation Dice are still expended and any [[Mishaps]] still occur.
 
 **Tradition:** An arcanist must select an Arcane Tradition (Wizardry, Sorcery, Necromancy, etc).  This will determine which spells they have access to.  See the rules on [[Magic]] for details.
 
-## Apprentices
-A arcanist may build a sanctum (typically a tower but it doesn't have to be) at any time they have the means to do so.  Upon constructing a sanctum and reaching the fame and notoriety of being 10th level, the arcanist will begin attracting apprentices.  Each month, the PC should make a Competent Charisma check.  Upon success, 1d3 apprentice arcanists of 1st level will present themselves.  These apprentices count against the PCs retainers.  These apprentices will all follow the same Arcane Tradition as the player character.
+### Apprentices
+A arcanist may build a sanctum (typically a tower but it doesn't have to be) at any time they have the means to do so.  Upon constructing a sanctum and reaching the fame and notoriety of being 10th level, the arcanist will begin attracting apprentices.    Your GM will inform you of when and how many new apprentices arrive.  These apprentices count against your retainers limit.
 
-## Arcanist Level Progression
+###### Arcanist Level Progression
 <table>
     <thead>
         <tr>

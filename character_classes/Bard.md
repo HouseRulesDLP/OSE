@@ -1,20 +1,21 @@
 ---
-cssclass: flatGrey
+cssclass: ose
 ---
-# Bard
-OSE Advanced (pg 34)
+## Bard
+<div class="ose-note">
+<b>Reference:</b> OSE Advanced (pg 34)<br/>
+<b>Requirements:</b> DEX 9, INT 9<br/>
+<b>Hit Dice:</b> 1d6<br/>
+<b>Armor:</b> Light & Medium<br/>
+<b>Weapons:</b> Light & Medium<br/>
+<b>Literate: Yes</b> 
+</div>
 
-## Features
-- **Prime Requisite:** DEX & INT 9+
-- **Hit Dice:** 1d6
-- **Armor:** Light & Medium
-- **Weapons:** Light & Medium
-
-## Equipment
+### Equipment
 - A Rogue's pack or Explorer's pack
 - 4d6sp
-## Bard Skills
-**Decipher Document (+0):** A successful check allows the bard to understand the gist of a non-magical text in a language they do not know, break a cypher or identify unusual symbols.
+### Bard Skills
+**Decipher Document (+0):** A successful check allows the bard to understand the gist of a non-magical text in a language they do not know, break a cypher or identify unusual symbols. Magical texts may be read but the roll is made with _Disadvantage_, but does not confer the ability to cast spells from scrolls.
 
 **Legerdemain (-3):** A successful check allows a bard to perform a trick of sleight of hand, such as palming a small object, slipping a poison into a drink, or pilfering a small item in the possession of another creature.
 
@@ -22,10 +23,13 @@ OSE Advanced (pg 34)
 
 **Perception (+1):** Through long hours of listening to music and watching for their audiences' reactions, Bards develop a keen sense of perception and make these checks with a +1 bonus.
 
-Typically the GM will roll Perception checks in secret as the outcome of these tasks will not always be immediately obvious.
+<div class="ose-note">
+<b>Uncertainty</b></br>
+Typically the GM will roll Decipher Document and Perception checks in secret as the outcome of these tasks will not always be immediately obvious.
+</div>
 
-## Bard Songs
-Bards know many songs and are capable of weaving magic into a song.  At first level, a bard's songs can only affect humanoids.  By 4th level, they can also affect fey listeners, and by 7th they can affect giants and other monsters with their music.  Playing a bard song requires [[Concentration]] for the duration of the song, which may not exceed more than twice bard's Constitution score in minutes.  A bard may sing a number of magical songs per day equal to their level.  Mindless and deaf creatures are always immune to the effects of a bard's magical songs.
+### Bard Songs
+Bards know many songs and are capable of weaving magic into a song.  At first level, a bard's songs can only affect humanoids.  By 4th level, they can also affect fey listeners, by 7th they can affect giants and monsters with their music and by 9th level their songs may affect demons, devils and other extra-planar creatures.  Playing a bard song requires [[Concentration]] for the duration of the song, which is normally limited to twice bard's Constitution score in minutes.  A bard may sing a number of magical songs per day equal to their level.  Mindless and deaf creatures are always immune to the effects of a bard's magical songs.
 
 Bards begin play knowing 1 magical song.  They gain knowledge of a new magical song at every odd level.  It is recommended that players customize the names of their bard songs as it adds a bit of flavor.
 
@@ -41,7 +45,7 @@ Bards begin play knowing 1 magical song.  They gain knowledge of a new magical s
 
 **Lamenting Lyric:** All affected enemies within 30ft who can hear the bard subtracts the Bard's CHA modifier from any mental saving throws they make until the start of the next round.
 
-**Lullaby:** This tune affects up to 1 HD worth of creatures per level of the bard.  Starting from the lowest HD creature and counting up, each must make a Spell save or fall [[Unconscious]].  Creatures rendered unconscious in this way may repeat their save at the end of each round.
+**Lullaby:** This tune affects up to 1 HD worth of creatures per level of the bard.  Starting from the lowest HD creature and counting up, each must make a Spell save or fall [[Unconscious]].  Creatures rendered unconscious in this way may repeat their save at the end of each round and will automatically wake up upon suffering any damage.
 
 **Masterful Music:** When this song is first started and at the beginning of each round thereafter, the bard picks one of their allies.  That ally adds the bard's CHA modifier to their Skill checks until the start of the bard's next turn.
 
@@ -49,15 +53,14 @@ Bards begin play knowing 1 magical song.  They gain knowledge of a new magical s
 
 **Soothing Song:** When played during a [[Short Rest]], everyone within earshot rolls an extra HD for healing.
 
-**Subtle Song:** While singing an otherwise ordinary song, the bard may whisper a message to one or more audience members.  The bard may pick up to one person per level to receive the message.
+**Subtle Song:** While singing an otherwise ordinary song, the bard may whisper a message to one or more audience members.  The bard may pick up to one person per level to receive the same message.
 
 **Triumphant Tune:** All enemies within 30ft who can hear the bard must make a Spell save.  On  a failed save, the victims subtract the bard's CHA modifier from their attack rolls. All affected creatures may repeat their save at the end of each round.
 
 ## Apprentices
-A bard may establish a hall as soon as they have the means and permission of any local performer's guild to do so.  After establishing a hideout and reaching the level of respect and renown afforded to someone of 10th level or higher the PC may begin training apprentices.  Each month the PC should make a Competent Charisma check.  If successful, 1d6 common minstrels and 1d3 1st level bards will show up to learn from the PC.  Those followers of 1st level or higher count among the PC's retainers.
+A bard may establish a hall as soon as they have the means and permission of any local performer's guild to do so.  After establishing a hideout and reaching the level of respect and renown afforded to someone of 10th level or higher the PC may begin training apprentices.   Your GM will inform you of when and how many new apprentices arrive. These apprentices count against your retainers limit.
 
-## Bard Level Progression
-
+###### Bard Level Progression
 <table>
     <thead>
     <tr>

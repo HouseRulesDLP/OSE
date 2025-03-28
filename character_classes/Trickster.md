@@ -1,33 +1,34 @@
 ---
 cssclasses:
-  - flatGrey
+  - ose
 ---
-# Trickster
-new
+## Trickster
+<div class="ose-note">
+<b>Reference:</b> none<br/>
+<b>Requirements:</b> DEX 11, INT 11<br/>
+<b>Hit Dice:</b> 1d5<br/>
+<b>Armor:</b> Light<br/>
+<b>Weapons:</b> Light & Medium<br/>
+<b>Literate: Yes</b> 
+</div>
 
-## Features
-- **Prime Requisite:** DEX & INT 11+
-- **Hit Dice:** 1d5
-- **Armor:** Light
-- **Weapons:** Light and Medium
-
-## Equipment
+### Equipment
 - A {type} pack or {type} pack.
 - 4d6sp
-## Trickster Skills
-**Decipher Document (-3):** A successful check allows the Trickster to understand the gist of a non-magical text in a language they do not know, break a cypher or identify unusual symbols.  Magical texts may be read using the Detect Magic skill (below).
+### Trickster Skills
+**Decipher Document (-3):** A successful check allows the trickster to understand the gist of a magical or non-magical text in a language they do not know, break a cypher or identify unusual symbols.
 
-**Legerdemain (-1):** A successful check allows an Trickster to perform a trick of sleight of hand, such as palming a small object, slipping a poison into a drink, or pilfering a small item in the possession of another creature.
+**Legerdemain (-1):** A successful check allows an trickster to perform a trick of sleight of hand, such as palming a small object, slipping a poison into a drink, or pilfering a small item in the possession of another creature.
 
 **Perception (+0):** Tricksters are specifically trained watch for guards and hunt for hidden treasures and traps.  Therefore they make Perception checks with a +0 modifier.
 
-**Pick Lock (-1):** A successful check allows a Trickster to open a mechanical lock without the key.  Magical locks may also be attempted, but at *Disadvantage* on the roll.  This requires the use of thieves' tools and at least one Turn.  A failed check may not be retried unless the Trickster has some way to improve their chances.  On a natural 1, the Trickster must make a Doom Save or accidentally jam the lock, rendering it impossible to open without force.
+**Pick Lock (-1):** A successful check allows a trickster to open a mechanical or magical lock without the key.  This requires the use of thieves' tools and at least one Turn.  A failed check may not be retried unless the Trickster has some way to improve their chances.  On a natural 1, the trickster must make a Doom Save or accidentally jam the lock, rendering it impossible to open without force.
 
-**Stealth (-1):** This skill allows the Trickster to remain undetected, even when shadows are the only cover available.
+**Stealth (-1):** This skill allows the trickster to remain undetected, even when shadows are the only cover available.
 
-**Arcana:** This is the Trickster's skill with arcane magic (specifically Sorcery). The following skills are based off of this skill.
+**Arcana:** This is the trickster's skill with arcane magic (specifically Sorcery). The following skills are based off of this skill.
 
-**Detect Magic (+0):** Being sensitive to the world of magic, a Trickster may determine if a person, place or thing is magical. Doing so requires [[Concentration]] and a full minute; so you cannot tell if something is magical simply by being in its presence and people tend to notice when a spellcaster is staring at them. You can also attempt to decipher magical writing in the same way with this skill.
+**Detect Magic (+0):** Being sensitive to the world of magic, a trickster may determine if a person, place or thing is magical. Doing so requires [[Concentration]] and a full minute; so you cannot tell if something is magical simply by being in its presence and people tend to notice when a spellcaster is staring at them.
 
 **Prepare Scroll (+0):** Starting at level 2, Tricksters can create arcane spell scrolls and protection scrolls.  See the rules on [magic item creation]() for details.
 
@@ -35,27 +36,28 @@ new
 
 **Create Minor Magic Item (-3):** Starting at 10th level, Tricksters can create minor arcane items.  See the rules on [magic item creation]() for details.
 
+<div class="ose-note">
+<b>Uncertainty:</b></br>
 Typically the GM will roll Decipher Document, Perception, Stealth, Detect Magic and Brew Potion checks in secret as the outcome of these tasks will not always be immediately obvious.
+</div>
 
-## Arcane Magic
-**Magical Focus:** As part of their apprenticeship, Tricksters create a Magical Focus to aid in casting spells. This focus may take most any form (a staff, wand, amulet or similar), but must be easily seen, recognized and hand-held. It also takes up 1 Inventory Slot. A focus may be replaced by constructing a new one which takes 1 week in a Safe Haven and 100sp worth of materials.
+### Arcane Magic
+**Magical Focus:** As part of their apprenticeship, tricksters create a Magical Focus to aid in casting spells. This focus may take most any form (a staff, wand, amulet or similar), but must be easily seen, recognized and hand-held. It also takes up 1 Inventory Slot. A focus may be replaced by constructing a new one which takes 1 week in a Safe Haven and 100sp worth of materials.
 
-For every caster level the Trickster has, they may carve a sigil into their focus.  Each sigil represents a specific spell the Trickster has learned (i.e. recorded in their Spellbook). Whenever they cast one of these spells, while holding their Magical Focus, the player rolls d8s for their Invocation Dice instead of d6s. It takes 1 Day and 50sp times the spell's Rank to engrave a new sigil into a focus.
+For every caster level the trickster has, they may carve a sigil into their focus.  Each sigil represents a specific spell the Trickster has learned (i.e. recorded in their Spellbook). Whenever they cast one of these spells, while holding their Magical Focus, the player rolls d8s for their Invocation Dice instead of d6s. It takes 1 Day and 50sp times the spell's Rank to engrave a new sigil into a focus.
 
 Having a Magical Focus in hand does not count against needing a free hand for spell casting.
 
-**Invocation Dice:** As spellcasters, Tricksters have the number of invocation dice indicated on the table below, plus a number of additional dice equal to their Intelligence modifier.  The Trickster may choose how many dice to roll each time they attempt to cast a spell.
+**Invocation Dice:** As spellcasters, tricksters have the number of invocation dice indicated on the table below, plus a number of additional dice equal to their Intelligence modifier.  The trickster may choose how many dice to roll each time they attempt to cast a spell.
 
 **Spellcasting:** Tricksters record their spells in their spellbooks as arcane formulae.  Before a spell can be cast, however, it must be prepared.  The table below shows the number of spells of each level they may prepare after a full night's rest.  This takes 10 minutes of uninterrupted meditation and ritual times the Rank of the spell.
 
-**Exhausting Magic:** At a cost of 1 level of [[Exhaustion]], a Trickster may choose to pass an invocation roll that just failed.  This occurs after a normal Invocation Roll, and any expended Invocation Dice are still expended and any [[Mishaps]] still occur.
+**Exhausting Magic:** At a cost of 1 level of [[Exhaustion]], a trickster may choose to pass an invocation roll that just failed.  This occurs after a normal Invocation Roll, and any expended Invocation Dice are still expended and any [[Mishaps]] still occur.
 
-## Apprentices
-A trickster may establish a hideout as soon as they have the means and permission of any local thieves' guild to do so.  After establishing a hideout and reaching the level of respect and renown afforded to someone of 10th level or higher the PC may begin training apprentice tricksters (with the permission of the local guild).  Each month the PC should make a Competent Charisma check.  If successful, 1d3 1st level tricksters will show up to learn from the PC.  These count among the PC's retainers.
+### Apprentices
+A trickster may establish a hideout as soon as they have the means and permission of any local thieves' guild to do so.  After establishing a hideout and reaching the level of respect and renown afforded to someone of 10th level or higher the PC may begin training apprentice tricksters (with the permission of the local guild).  Your GM will inform you of when and how many new apprentices arrive.  These apprentices count against your retainers limit.
 
-
-## Trickster Level Progression
-
+###### Trickster Level Progression
 <table>
     <thead>
         <tr>

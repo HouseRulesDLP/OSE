@@ -1,25 +1,26 @@
 ---
-cssclass: flatGrey
+cssclass: ose
 ---
-# Fighter
-OSE Advanced (pg 50)
+## Fighter
+<div class="ose-note">
+<b>Reference:</b> OSE Advanced (pg 50)<br/>
+<b>Requirements:</b> STR 9, CON 9<br/>
+<b>Hit Dice:</b> 1d8<br/>
+<b>Armor:</b> Any and Shields<br/>
+<b>Weapons:</b> All<br/>
+<b>Literate: No</b> 
+</div>
 
-## Features
-- **Prime Requisite:** STR & CON 9+
-- **Hit Dice:** 1d8
-- **Armor:** Any & Shields
-- **Weapons:** All
-
-## Hauler
+### Hauler
 Add your Constitution Modifier to your Strength Score for calculating [[encumbrance]] limits.
 
-## Knacks
-Select one of the following special abilities, denoting how you prefer to fight.  You may select additional abilities at levels 3, 5, 7, 9, 11 and 13.  Unless noted otherwise, each knack may only be taken once.
+### Knacks
+Select one of the following special abilities, denoting how you prefer to fight.  You may select additional abilities at every odd-numbered level.  Unless noted otherwise, each knack may only be taken once.
 1. **Armor Master:** So long as you are wearing armor, reduce the damage you take from blunt, piercing and slashing attacks by the weight of the armor (1 for Light, 2 for Medium and 3 for Heavy).
 2. **Battle Rage:** Gain +2 to hit in melee, +2 melee Damage and +2 on saves vs Charm & Fear but suffer -4 AC.  Become [[Exhausted]] after battle.
 3. **Cavalry:** While mounted, you gain +1 AC, +2 to hit and [[Advantage]] on rolls to stay mounted.  Additionally, your mount gains +1 AC, +1 on all saves and +1 Morale.
 4. **Charger:** Your first attack after a charge gains +2 to hit and damage.
-5. **Cleave:** If your melee attack drops a target to 0 or fewer HP, you may immediately make another melee attack against a different foe.  If you have movement left, you may use it between attacks.
+5. **Cleave:** If your melee attack drops a target below 1 HP, you may immediately make another melee attack against a different foe.  If you have movement left, you may use it between attacks.
 6. **Deadly Blow:** When making a melee attack, roll damage with [[Advantage]].
 7. **Deadly Shot:** When making a ranged attack, roll damage with Advantage.
 8. **Exploit Opening:** Each time you take this talent lower your critical hit threshold by 1, to a minimum of 18.
@@ -36,26 +37,16 @@ Select one of the following special abilities, denoting how you prefer to fight.
 19. **Slayer:** Pick a specific type of enemy (bears, goblins, dragons, etc).  You gain +1 to hit and +2 critical chance vs these creatures.  You also gain [[Advantage]] on saving throws vs the supernatural abilities of these creatures.
 20. **Weapon Specialist:** Pick a specific type of weapon (battle axe, arming sword, longbow, etc).  You gain +1 to hit and +Level/2 (round up) damage while wielding weapons of this type.
 
-## Minimum Damage
+### Minimum Damage
 Fighters are experts at dealing damage. If your attack misses the target's AC by your level your less, you still deal your attack's minimum damage to the target.
 
-## Weapon Specialization
-Select 1 specific weapon type (such as Battle Axe, Long Bow, Arming Sword, etc).  You gain +1 To Hit and +2 Damage with this weapon.
+### Weapon Specialization
+Select 1 specific weapon type (such as Battle Axe, Long Bow, Arming Sword, etc).  You gain +1 To Hit and +Level/2 Damage with this weapon.
 
-## Followers
-A fighter may conquer or build a stronghold at any time they have the means to do so.  After establishing their stronghold they may be granted a noble title (or assume one if their stronghold is in true wilderness).  With a stronghold, after reaching the prestige that comes with attaining 10th level, they will draw followers who will swear fealty to the new lord/lady.  These followers consist of the following:
-- 3d6 infantry
-- 2d6 archers
-- 1d6 cavalry
-- 1 sergeant per 10 troops
-- 1 lieutenant per 3 sergeants
-- 1 captain if there are at least 2 lieutenants.
-- A number of peasants, depending on how tame and abundant the surrounding lands are, will arrive to work the land.
+### Followers
+A fighter may conquer or build a stronghold at any time they have the means to do so.  After establishing their stronghold they may be granted a noble title (or assume one if their stronghold is in true wilderness).  With a stronghold, after reaching the prestige that comes with attaining 10th level, they will draw followers who will swear fealty to the new lord/lady.  Your GM will inform you of which followers arrive and when.
 
-These followers will all trickle in over the course of several months and will garrison the PC's stronghold for 50% the normal pay due to their loyalty.  They also gain +1 morale.  Additionally, each month the PC should make a Competent Charisma check.  Upon a success, 1d4 1st level fighters will show up seeking the PC's tutelage.  All followers of 1st level or higher count among the PC's retainers.
-
-## Fighter Level Progression
-
+###### Fighter Level Progression
 <table>
     <thead>
         <tr>

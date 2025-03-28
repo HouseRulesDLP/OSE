@@ -1,23 +1,24 @@
 ---
 cssclasses:
-  - flatGrey
+  - ose
 ---
 # Thief
-OSE Advanced (pg 74)
+<div class="ose-note">
+<b>Reference:</b> OSE Advanced (pg 74)<br/>
+<b>Requirements:</b> DEX 9, INT 9<br/>
+<b>Hit Dice:</b> 1d6<br/>
+<b>Armor:</b> Light<br/>
+<b>Weapons:</b> Light & Medium<br/>
+<b>Literate: No</b> 
+</div>
 
-## Features
-- **Prime Requisite:** DEX & INT 9+
-- **Hit Dice:** 1d6
-- **Armor:** Light
-- **Weapons:** Light and Medium
-
-## Equipment
+### Equipment
 - A {type} pack or {type} pack.
 - 4d6sp
-## Thief Skills
+### Thief Skills
 **Climb Wall (+0):** This goes beyond the normal climbing skill that every adventurer has and even goes beyond the climbing skill of the [[ranger]].  This skill allows the thief to climb walls with minimal hand/fingertip holds that would normally be impossible to scale without equipment.  Thieves are able to perform normal climbs at +4 and climb cliffs at +2.  Rolls are made for each 100ft (or fraction thereof) to be climbed.  Failure indicates a fall at the half-way point, suffering falling damage.
 
-**Decipher Document (-3):** A successful check allows the thief to understand the gist of a non-magical text in a language they do not know, break a cypher or identify unusual symbols.  Magical texts may be read but the roll is made with *Disadvantage*.
+**Decipher Document (-3):** A successful check allows the assassin to understand the gist of a non-magical text in a language they do not know, break a cypher or identify unusual symbols.  Magical texts may be read but the roll is made with *Disadvantage*, but does **not** confer the ability to cast spells from scrolls.
 
 **Disarm Device (-2):** A successful check allows the thief to disarm mechanical traps and similar devices.  Magical traps may also be attempted, but at *Disadvantage* on the roll.  Thieves' tools are required for this check, and at least one Turn is required to complete the task.  A failed check may not be retried unless the thief has some way to improve their chances.  On a natural 1, the thief must make a Doom Save or accidentally spring the trap.
 
@@ -29,16 +30,18 @@ OSE Advanced (pg 74)
 
 **Stealth (+0):** This skill allows the thief to remain undetected, even when shadows are the only cover available.
 
+<div class="ose-note">
+<b>Uncertainty:</b></br>
 Typically the GM will roll Decipher Document, Listen, Perception and Stealth checks in secret as the outcome of these tasks will not always be immediately obvious.
+</div>
 
-## Sneak Attack
+### Sneak Attack
 When a thief has *Advantage* on an attack, add the listed damage on the table below to the attack.
 
-## Apprentices
-A thief may establish a hideout as soon as they have the means and permission of any local thieves' guild to do so.  After establishing a hideout and reaching the level of respect and renown afforded to someone of 10th level or higher the PC may begin training apprentice thieves (with the permission of the local guild).  Each month the PC should make a Competent Charisma check.  If successful, 1d3 1st level thieves will show up to learn from the PC.  These count among the PC's retainers.
+### Apprentices
+A thief may establish a hideout as soon as they have the means and permission of any local thieves' guild to do so.  After establishing a hideout and reaching the level of respect and renown afforded to someone of 10th level or higher the PC may begin training apprentice thieves (with the permission of the local guild).    Your GM will inform you of when and how many new apprentices arrive.  These apprentices count against your retainers limit.
 
-## Thief Level Progression
-
+###### Thief Level Progression
 <table>
     <thead>
         <tr>

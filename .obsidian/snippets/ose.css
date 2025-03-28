@@ -15,6 +15,13 @@
     font-size: 12pt;
     font-weight:normal;
 }
+ul li::before {
+        content: "»";
+        font-weight: bold;
+        display: inline-block;
+        width: 1em;
+        margin-left: -1em;
+}
 /* ---- */
 
 /* ------- */
@@ -135,7 +142,7 @@
     color: black;
     border-width: 5px;
     border-image-outset: 5px 0px;
-    box-shadow: 0px 1px 5px;
+    padding: 0px 0px 0px 10px;
 }
 /* ---- */
 

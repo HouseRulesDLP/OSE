@@ -7,7 +7,6 @@
     "clean-embeds",
     "table-formats",
     "rule-formats",
-    "tableStyles",
     "ose"
   ]
 }

@@ -1,15 +1,17 @@
-# Dwarf
-**AKA**: Dweorg, Dyerven, Gnome, Svartal<br/>
-Dwarves are a stocky fae species averaging around 4 to 5 feet in height, yet weighing as much as a full grown human.  Both men and women are capable of growing beards, though some choose to shave.  They typically mature at the same rate as humans, but are considered young until around the age of 50, as they typically live for 350 years.
-- **Starting Age:** 30 + 2d10 years
-- **Height:** 47 + 2d6 inches [4' 1" to 4' 11"]
-- **Weight:** 80 + (height roll * 2d8) lbs [134 to 322 lbs]
-- **Size:** Medium
-- **Speed:** 30 ft
-- **Tags:** Humanoid, Fae (earth)
+## Dwarf
+<div class="ose-note">
+<b>AKA:</b> Dweorg, Dveren, Svartal</br>
+<b>Requirements:</b> CON 9</br>
+<b>Starting Age:</b> 30 + 2d10 years</br>
+<b>Height:</b> 47 + 2d6 inches {4' 1" to 4' 11"}</br>
+<b>Weight:</b> 80 + (height roll * 2d8) lbs {134 to 322 lbs}</br>
+<b>Size:</b> Medium</br>
+<b>Speed:</b> 30 ft</br>
+<b>Tags:</b> Humanoid, Fae (earth)</br>
+</div>
 
----
-## Features
+Dwarves are a stocky fae species averaging around 4 to 5 feet in height, yet weighing as much as a full grown human.  Both men and women are capable of growing beards, though some choose to shave.  They typically mature at the same rate as humans, but are considered young until around the age of 50, as they typically live for 350 years.
+
 ### Dust of Ages
 The age of the dwarf is long since past. A Dwarf’s Base and Max Fortune Points are reduced by 1 (to a minimum 1 **Max Fortune**).
 ### Enduring as Stone

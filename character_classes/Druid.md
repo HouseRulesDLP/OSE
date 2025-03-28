@@ -1,19 +1,20 @@
 ---
-cssclass: flatGrey
+cssclass: ose
 ---
-# Druid
-OSE Advanced (pg 40)
+## Druid
+<div class="ose-note">
+<b>Reference:</b> OSE Advanced (pg 40)<br/>
+<b>Requirements:</b> WIS 11<br/>
+<b>Hit Dice:</b> 1d6<br/>
+<b>Armor:</b> Light plus Shields<br/>
+<b>Weapons:</b> Light & Medium<br/>
+<b>Literate: No</b> 
+</div>
 
-## Features
-- **Prime Requisite:** Wisdom 11+
-- **Hit Dice:** 1d6
-- **Armor:** Light plus Shields
-- **Weapons:** Light & Medium
-
-## Equipment
+### Equipment
 - A Priest's pack or Explorer's pack.
 - 4d6sp
-## Druid Skills
+### Druid Skills
 **Detect Spirits (+0):** A Druid can detect fae and nature spirits (anima) including those inhabiting or possessing other objects/beings. Doing so requires [[Concentration]] and a full minute; so they cannot tell if something is present with a simple glance and people tend to notice when being stared at.
 
 **Prepare Scroll (+0):** Druids can create Druidic spell scrolls and protection scrolls.  See the rules on [magic item creation]() for details.
@@ -24,11 +25,12 @@ OSE Advanced (pg 40)
 
 **Create Major Magic Item (-5):** Starting at 10th level, Druids can create major magic items by infusing them with an anima.  See the rules on [magic item creation]() for details.
 
-**Create Artifact (-10):** Starting at 14th level, Druids can create artifacts by infusing them with powerful anima.  See the rules on [magic item creation]() for details.
-
+<div class="ose-note">
+<b>Uncertainty:</b></br>
 The DM should typically roll for Detect Spirits and Brew Potion as it may not be immediately obvious if the skill check succeeds or not.
+</div>
 
-## Druid Magic
+### Druid Magic
 **Spellcasting Focus:** Druids create a Magical Foci to aid in casting spells. This focus may take most any form (a staff, wand, amulet or similar), but must be easily seen, recognized and hand-held. It also takes up 1 Inventory Slot. A focus may be replaced by constructing a new one and convincing a minor nature spirit to inhabit it.  This takes 1 week in a Safe Haven and 100sp worth of materials.
 
 For every level the Druid has, they may carve a sigil into their Focus.  Each sigil represents a specific spell the Druid has learned (i.e. granted by the spirits). Whenever they cast one of these spells, while holding this Focus, the player rolls d8s for their Invocation Dice instead of d6s. It takes 1 Day and 50sp times the spell's Rank to engrave a new sigil into a Focus.
@@ -39,42 +41,34 @@ Having a Focus in hand does not count against needing a free hand for spell cast
 
 **Invocation Dice:** As a spellcaster, Druids have the number of invocation dice indicated on the table below, plus a number of additional dice equal to their Wisdom modifier.  The Druid may choose how many dice to roll each time they attempt to cast a spell.
 
-**Spellcasting:** Druids receive their spells from fae and nature spirits meditating and communing with them.  The table below shows the number of spells of each level they may be granted upon completing their morning rituals after a full night's rest.  It takes 10 minutes of uninterrupted meditation times the level of the spell for each spell that is to be granted.
+**Spellcasting:** Druids receive their spells from fae and nature spirits by meditating and communing with them.  The table below shows the number of spells of each level they may be granted upon completing their morning rituals after a full night's rest.  It takes 10 minutes of uninterrupted meditation times the level of the spell for each spell that is to be granted.
 
 **Exhausting Magic:** At a cost of 1 level of [[Exhaustion]], a Druid may choose to pass an invocation roll that just failed.  This occurs after a normal Invocation Roll, and any expended Invocation Dice are still expended and any Mishaps still occur.
 
-## Charm Immunity
+### Charm Immunity
 Starting at 3rd level, Druids have Advantage on all saving throws to resist the Charms and Illusions of Fae and Natural creatures.  Beginning at 5th level, the Druid becomes immune to these affects from Natural creatures and this expands to Fae creatures by 7th level.
 
-## Identification
+### Identification
 Druids can automatically identify natural plants and animals and whether water is pure or contaminated (though not necessarily by what).  For especially rare or supernatural plants and animals, the GM may require a *Competency* check modified by Intelligence.
 
-## Languages
-There is no secret druid language.  However, at 1st level, Druids learn Sylvan.  Every level thereafter, they learn to speak one animal (terrestrial, avian, insect, aquatic, etc) or plant (all plants) language.  At 5th level, they can begin learning fae (dryad, wyrm, pixie, etc) languages.  At 9th level, they can begin learning elemental languages (Primordial, Auran, Aquan, Ignan and Terran)
+### Languages
+There is no secret druid language.  However, at 1st level, Druids learn Sylvan.  Every level thereafter, they learn to speak one animal (terrestrial, avian, insect, aquatic, etc) or plant (all plants) language.  At 5th level, they can begin learning fae (dryad, wyrm, pixie, etc) languages.  At 9th level, they can begin learning elemental languages (Primordial, Auran, Aquan, Ignan and Terran).  Languages learned from this feature may not be traded for literacy.
 
-## Pass Without Trace
+### Pass Without Trace
 Starting at 3rd level, a druid can pass through natural environments without leaving any tracks. The character is also able to move through overgrown areas at normal speed and without impediment.  This ability imposes *Disadvantage* on attempts to track the druid through natural terrain.  By 5th level, this ability expands to the druid's companions, so long as they remain with 15ft of the druid.
 
-## Pathfinding
+### Pathfinding
 A party with a druid gains *Advantage* on checks to avoid getting lost in a natural outdoor environment.
 
-## Shapechange
+### Shapechange
 At 2nd level, a druid gains the ability to change form into that of any natural terrestrial animal they are familiar with.  The form assumed may not have more Hit Dice than the druid has levels.  At 3rd level, this ability expands to include natural aquatic and amphibious animals.  At 5th level, the druid may take the form of a natural avian animal.  By 7th level, the druid may take the form of fae animals (such as basilisks, winter wolves, and the like).  Finally at 11th level, the druid may shapechange into the form of an elemental.
 
 Each time the druid uses this ability, they expend one of their Invocation Dice without rolling it.
 
-## Followers
-At any time they have the means to do so, a druid may build a sacred site (referred to hereafter as a "sanctuary") integrated into a natural setting.  However, they may not do so if there is another druid's sanctuary within 100 miles of the site.  Once a sanctuary has been established and upon the druid attaining their 10th level of experience, they will begin attracting followers who will arrive over the next several months:
-- 1d4 rangers (10% chance each of being a warden instead) of levels 1-3
-- 2d4 common soldiers
-- 2d6 common worshipers
-- 2d4 fae and nature spirits
-- a larger than normal number of animals common to the region
+### Followers
+At any time they have the means to do so, a druid may build a sacred site (referred to hereafter as a "sanctuary") integrated into a natural setting.  However, they may not do so if there is another druid's sanctuary within 100 miles of the site.  Once a sanctuary has been established and upon the druid attaining their 10th level of experience, they will begin attracting followers to tend and help protect the sanctuary.
 
-These followers arrive to worship at, tend to and help protect the sanctuary.  Additionally, each month the druid should make a Competent Charisma check.  Upon a success, 1d3 1st level apprentice druids will present themselves.  Those followers of 1st level or higher count among the PC's retainers.
-
-## Druid Level Progression
-
+###### Druid Level Progression
 <table>
     <thead>
     <tr>
