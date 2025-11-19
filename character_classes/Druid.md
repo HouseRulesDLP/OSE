@@ -1,5 +1,5 @@
 ---
-cssclass: ose
+cssclasses: ose
 ---
 ## Druid
 <div class="ose-note">

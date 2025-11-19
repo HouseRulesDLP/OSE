@@ -1,5 +1,5 @@
 ---
-cssclass: ose
+cssclasses: ose
 ---
 ## Cleric
 <div class="ose-note">

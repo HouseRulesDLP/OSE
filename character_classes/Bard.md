@@ -1,5 +1,6 @@
 ---
-cssclass: ose
+cssclasses:
+  - ose
 ---
 ## Bard
 <div class="ose-note">

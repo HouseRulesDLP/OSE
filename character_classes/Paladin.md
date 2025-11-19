@@ -99,7 +99,7 @@ A paladin may conquer or build a stronghold at any time they have the means to d
             <th align="center" colspan=5><b>Saving Throws</b></th>
             <th align="center" rowspan=2><b>Competence</b></th>
             <th align="center" rowspan=2><b>Holy<br/>Magic</b></th>
-            <th align="center" rowspan=2><b>Caster<br/>Level#</b></th>
+            <th align="center" rowspan=2><b>Caster<br/>Level</b></th>
             <th align="center" rowspan=2><b>Invocation<br/>Dice#</b></th>
             <th align="center" colspan=4><b>Cleric Spells by Level@</b></th>
         </tr>

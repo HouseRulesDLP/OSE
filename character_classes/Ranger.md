@@ -1,5 +1,5 @@
 ---
-cssclass: ose
+cssclasses: ose
 ---
 ## Ranger
 <div class="ose-note">

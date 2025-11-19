@@ -1,3 +1,5 @@
 *.json
 .obsidian/app.json
 *.ods#
+.obsidian/core-plugins.json
+.obsidian/workspace.json

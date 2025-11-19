@@ -1,5 +1,5 @@
 ---
-cssclass: ose
+cssclasses: ose
 ---
 ## Fighter
 <div class="ose-note">

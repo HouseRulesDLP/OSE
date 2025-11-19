@@ -1,5 +1,5 @@
 ---
-cssclass: ose
+cssclasses: ose
 ---
 - [Ability Scores](#Ability%20Scores)
     - [Ability Score Modifiers](#Ability%20Score%20Modifiers)
@@ -69,13 +69,13 @@ All ability scores use the following ability modifiers table.  Ignore the existi
 
 ### Intelligence (INT)
 - **Languages:** Your INT modifier determines your number of starting languages.  You start play knowing 2 plus INT Modifier languages (minimum 1).  Typically this is at least your character's native language plus the "common" tongue of your starting region.  Other languages are purely a matter of personal choice.
-- **Literacy:** Most Characters are not automatically literate with the exception of spellcasting classes (clerics, magic-users and their hybrids).  Other characters must gain literacy as either a background feature or by spending a single language pick on literacy.  Once literate, your character is considered literate in all languages they know.  A character with an INT mod if -3 or less can never become literate.
-- **Spells:** Your INT modifier is the number of bonus 1st level arcane spells a magic-user can prepare.
+- **Literacy:** Most Characters are not automatically literate with the exception of spellcasting classes (clerics, arcanists and their hybrids).  Other characters must gain literacy as either a background feature or by spending a single language pick on literacy.  Once literate, your character is considered literate in all languages they know.  A character with an INT mod if -3 or less can never become literate.
+- **Spells:** Your INT modifier is the number of bonus 1st level arcane spells an arcanist can prepare.
 - **Other:** Any task involving logic and knowledge uses your INT modifier.
 
 ### Wisdom (WIS)
 - **Spells:** Your WIS modifier is the number of bonus 1st level divine spells a cleric can prepare.
-- **Perception:** Your WIS modifier is used on any perception check to notice hidden or otherwise inobvious details.
+- **Perception:** Your WIS modifier is used on any perception check to notice hidden or otherwise unobvious details.
 - **Other:** Any task involving willpower or spiritual fortitude uses your WIS modifier.
 
 ### Dexterity (DEX)
